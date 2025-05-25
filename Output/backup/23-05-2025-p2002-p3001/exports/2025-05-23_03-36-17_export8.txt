@@ -1,0 +1,27 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7899298638889;GRAVADOR DIGITAL DE IMAGEM MHDX 1204 C/HD 1TB;https://m.media-amazon.com/images/I/41FPhVvOkeL.__AC_SX300_SY300_QL70_ML2_.jpg;33.6;31;8.9;centímetros;1.31;quilogramas;
+7899298635758;DVR 4 Canais Intelbras MHDX 1204 AM - Multi HD - IP, HDCVI, HDTVI, AHD e Analógica - ONVIF;https://m.media-amazon.com/images/I/41kN-yXIOOL.__AC_SX300_SY300_QL70_ML2_.jpg;48;26;23;centímetros;1.3;quilogramas;
+7899298625001;;;33;31;10;cm;1.2;quilogramas;
+7899298635994;;;44;36;15;cm;1.6;quilogramas;
+7899298622796;DVR 16 Canais Intelbras MHDX 1216 AM - Multi HD - IP, HDCVI, HDTVI, AHD e Analógica - ONVIF;https://m.media-amazon.com/images/I/41kN-yXIOOL.__AC_SX300_SY300_QL70_ML2_.jpg;20;20;20;centímetros;2;quilogramas;
+7899298615620;Gravador digital de vídeo 32 canais Full HD 1080p Intelbras MHDX 1232;https://m.media-amazon.com/images/I/410Y11n3qKL.__AC_SX300_SY300_QL70_ML2_.jpg;44;36;14;centímetros;3.08;kilograms;
+7899298615682;Intelbras Imhdx 3132 Roxo 32 Canais Dvr 2tb Gravador de Vídeo Digital;https://m.media-amazon.com/images/I/418X2iYnIdL.__AC_SX300_SY300_QL70_ML2_.jpg;;;5;quilogramas;
+7899298630111;Gravador de Vídeo Digital 4 canais MHDX 3004-C C/HD 1TB Purple;https://m.media-amazon.com/images/I/31HA44JT7JL.__AC_SY300_SX300_QL70_ML2_.jpg;;;;;
+7899298630272;Dvr 8 Canais 5mp Inteligência Vídeo Mhdx 3008-c - Intelbras;https://m.media-amazon.com/images/I/41RvekJlNlL.__AC_SX300_SY300_QL70_ML2_.jpg;35.8;28;6.8;centímetros;1;kilograms;
+7899298649731;Gravador Digital De Vídeo 16 Canais Mhdx 3116-C Intelbras;https://m.media-amazon.com/images/I/41GrTVlxl4L.__AC_SY300_SX300_QL70_ML2_.jpg;32.8;31;9;centímetros;1.4;kilograms;
+7899298649762;Dvr Intelbras 16 Canais Full Hd Mhdx 3116c C/Hd 1t Purple;https://m.media-amazon.com/images/I/41WtzSBpnAL.__AC_SX300_SY300_QL70_ML2_.jpg;;;2.52;quilogramas;
+7899298649786;Dvr 16 Canais Intelbras Imhdx 3116 Full Hd Até 5.0mp C/HD 4TB Purple;https://m.media-amazon.com/images/I/517+raT8Y1L._AC_SY300_SX300_.jpg;;;2.46;quilogramas;
+7896637679718;Gravador Digital de Vídeo 32 Canais IP em Rede Full HD 4K NVD1232 4580304 Intelbras;https://m.media-amazon.com/images/I/41+2+aiBTSL._AC_SX300_SY300_.jpg;43.4;36;13.4;centímetros;3.3;kilograms;
+7896637685764;;;33;31;9;cm;1.3;quilogramas;
+7899298639459;Gravador Digital De Video Nvd 1404 P Intelbras;https://m.media-amazon.com/images/I/310bggDSGdL.__AC_SY300_SX300_QL70_ML2_.jpg;;;;;
+7899298637325;NVD gravador digital de vídeo 8 canais IP H.265+ NVD 1408 4k (sem HD);https://m.media-amazon.com/images/I/41MOYoZYBuL.__AC_SX300_SY300_QL70_ML2_.jpg;35;35;10;centímetros;3.5;kilograms;
+7896637678117;Gravador Digital Intelbras NVD 3116 4K 16CH RJ45 HDMI;https://m.media-amazon.com/images/I/41cTt2wNxoL.__AC_SY300_SX300_QL70_ML2_.jpg;44;36;15;centímetros;1.6;kilograms;
+7899298641346;NVD Gravador de vídeo 8 Canais IP PoE H.265+ Intelbras NVD 3308-P 4k (sem HD);https://m.media-amazon.com/images/I/31UkHtD10DL.__AC_SX300_SY300_QL70_ML2_.jpg;40;30;17;centímetros;2.6;quilogramas;
+7899298630999;NVD Gravador 16 canais de vídeo IP H.265+ Intelbras NVD 3316 4K (sem HD);https://m.media-amazon.com/images/I/413Ntg1N8NL.__AC_SX300_SY300_QL70_ML2_.jpg;35;33;10;centímetros;1.32;quilogramas;
+7899298631132;NVD gravador 16 canais de vídeo IP PoE+ Intelbras NVD 3316-P Ultra HD 4K;https://m.media-amazon.com/images/I/41zI5yB8sgL.__AC_SY300_SX300_QL70_ML2_.jpg;45;45;20;centímetros;3.81;kilograms;
+7899298637318;;;45;35;15;cm;2.73;kilograms;
+7896637676649;Adaptador Optico Simplex Sc/Apc - Xfa 2 Intelbras;https://m.media-amazon.com/images/I/51HniMVzohL.__AC_SX300_SY300_QL70_ML2_.jpg;16;13;5;centímetros;270;g;
+7899744026611;Emenda HDMI Fêmea - HDMI Fêmea PIX;https://m.media-amazon.com/images/I/41SKsbMfO3L.__AC_SX300_SY300_QL70_ML2_.jpg;10.3;7.4;1.1;centímetros;20;g;
+7898554604705;Emenda de Cabo de Rede RJ45 M101S Fortrek;https://m.media-amazon.com/images/I/31gtHFfPLNL._SY445_SX342_QL70_ML2_.jpg;;;;;
+7898392250836;1000 Pulseiras cor rosa para controle de acesso Laser Pro;https://m.media-amazon.com/images/I/41yi0nbf7dL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898392252762;Pulseira de identificação térmica indireta bobina 200 - rolo;https://m.media-amazon.com/images/I/41wHIDKtbRL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;

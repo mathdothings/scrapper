@@ -1,0 +1,21 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7897013573354;Kit Veicular Powerbank 3000mAh, Suporte Veicular, Carregador USB Veicular 2 Saídas 2.1A 10W, Cabo microUSB Elgin, Elgin, 46RKITCARRO0, Branco, Cinza;https://m.media-amazon.com/images/I/51F72kvO5oL.__AC_SX300_SY300_QL70_ML2_.jpg;19.4;16.8;3.8;centímetros;175;g;
+7898506460526;;;20;20;20;cm;500;g;
+7897013572876;Lampada Bulbo Led A55 6w Bivolt 6500k Elgin;https://m.media-amazon.com/images/I/51IabNueDJL.__AC_SX300_SY300_QL70_ML2_.jpg;11;5.6;5.6;centímetros;30;g;
+7897013572890;Lampada Bulbo Led A60 9w Bivolt 6500k Elgin;https://m.media-amazon.com/images/I/31zDPp-KbLL.__AC_SY300_SX300_QL70_ML2_.jpg;11.2;6.1;6.1;centímetros;54;g;
+7897013589164;;;6.6;1.8;1.8;cm;180;g;
+7899298607267;Lâmpada LED Smart Wi-Fi EWS 409 - Intelbras;https://m.media-amazon.com/images/I/41F73leoc7L.__AC_SY445_SX342_QL70_ML2_.jpg;23;19;13;centímetros;300;g;
+7896637634168;Lâmpada Smart Inteligente EWS 410 com 16 milhões de cores Wi-Fi compatível com Alexa Intelbras;https://m.media-amazon.com/images/I/61b4xy6DawL.__AC_SY300_SX300_QL70_ML2_.jpg;15.3;6.3;6.2;centímetros;70;g;
+7898105779265;Lanterna De 11 Leds;https://m.media-amazon.com/images/I/51IbP2vSkKL.__AC_SX300_SY300_QL70_ML2_.jpg;28.6;12.2;8.6;centímetros;0.34;g;
+7898594128926;Apresentador Passador De Slides Laser Power Point Wireless;https://m.media-amazon.com/images/I/61jDt16mKkL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898152180625;WAP Lavadora de Alta Pressão OUSADA PLUS 2200, com Jato Leque e Concentrado, 342L/h, 1750psi 1500W 220V;https://m.media-amazon.com/images/I/711W3v-nNpL.__AC_SX300_SY300_QL70_ML2_.jpg;65;26;26;cm;4.6;quilogramas;
+7896637618311;Cadastrador E Leitor De Rfid Cm 100 Intelbras;https://m.media-amazon.com/images/I/41wzhXWZrgL.__AC_SX300_SY300_QL70_ML2_.jpg;20;20;20;centímetros;1;kilograms;
+7897013537738;Leitor De Código De Barras, Elgin, Portátil, Br220, Bluetooth;https://m.media-amazon.com/images/I/31u6vmyKAiL._SY445_SX342_QL70_ML2_.jpg;19;13;4;cm;340;g;
+7897013589966;LEITOR Bematech LINEAR IMAGER FLASH, USB, 46BFLASHCKD0, PRETO;https://m.media-amazon.com/images/I/71kv7jeCgAL.__AC_SY300_SX300_QL70_ML2_.jpg;;;;;
+7898476327195;Leitor de Cartão de Memória Multilaser Interno 30 em 1- AC069;https://m.media-amazon.com/images/I/518R0cHhbBL.__AC_SX300_SY300_QL70_ML2_.jpg;14.4;10.8;3;centímetros;500;g;
+7898506475742;Leitor De Código De Barras Laser 1D Multilaser - GA126, Branco;https://m.media-amazon.com/images/I/61Tpu6BdeuL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898555213333;C3Tech Leitor de Código de Barras Sem Fio LB-W200BK Laser Preto - Ergonômico Automático Wireless 2.4GHz Sensor Laser 200 scans/seg Com Memória Interna Compatível com PC/Linux;https://m.media-amazon.com/images/I/51j+UCaM5ML._AC_SY300_SX300_.jpg;;;;;
+7898587275569;Scanner Código De Barras E Qrcode 2D Oex Lc100 5V;https://m.media-amazon.com/images/I/41U4Kq8bgwL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898555210714;Leitor de codigo de barras C3Tech sem fio 2.4GHz LB-W110BK, 1D 2D QR code, sensor Cmos,WI-FI, Leitura de imagem inversa;https://m.media-amazon.com/images/I/41M0PG9InLL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898938795951;Leitor E Gravador De Cartões Smart Card Usb 2.0 Comtac 9202;https://m.media-amazon.com/images/I/41EERxx7LqL.__AC_SX300_SY300_QL70_ML2_.jpg;16.1;10.6;4.5;centímetros;80;g;
+7897013528859;BEMATECH Leitor De Código De Barras, Elgin, Fixo, 2D, Usb;https://m.media-amazon.com/images/I/51XWr9pbDAL.__AC_SX300_SY300_QL70_ML2_.jpg;25.2;16.4;10.6;centímetros;350;g;

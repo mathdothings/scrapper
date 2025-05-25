@@ -1,0 +1,2 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7899634000691;Pijama Infantil Unicórnio Macacão -;https://m.media-amazon.com/images/I/31iUbkNg9+L._AC_SY445_SX342_.jpg;;;;;

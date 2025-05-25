@@ -1,0 +1,21 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7896637647274;Micro Central De Telefonia Fixa Sem Fio 30W Intelbras;https://m.media-amazon.com/images/I/31LphsAjwGL.__AC_SY300_SX300_QL70_ML2_.jpg;;;;;
+7898566207925;Microfone de lapela com cabo 1,5m e plug P2 stereo - Micn0003;https://m.media-amazon.com/images/I/61EuXT0B3WL.__AC_SX300_SY300_QL70_ML2_.jpg;20;19;9;centímetros;200;g;
+7898615158406;Microfone, Flex, Lapela, P3, Estéreo;https://m.media-amazon.com/images/I/515DLCt22BL.__AC_SX300_SY300_QL70_ML2_.jpg;11.2;7.8;2.2;centímetros;45;g;
+7898566209783;Microfone Lapela Conector Tipo C MICN0005 STORM;https://m.media-amazon.com/images/I/51Rwx0+ShML._AC_SY300_SX300_.jpg;15;13;1;cm;20;g;
+7899638107228;HAYONIK, Microfone Dinâmico Supercardióide, C/Cabo 3M, Preto - MDH-102;https://m.media-amazon.com/images/I/51OvtjjgkwL.__AC_SX300_SY300_QL70_ML2_.jpg;18.2;8;5.3;centímetros;270;g;
+7898554601100;Microfone Dinâmico Supercardióide Cabo 3M Mdc101 Preto Harmonics, Harmonics, Mdc101,;https://m.media-amazon.com/images/I/51cLcfairCL.__AC_SX300_SY300_QL70_ML2_.jpg;18.2;8;5.2;centímetros;420;g;
+7896637625869;Microfone para CFTV MIC 3080 - Intelbras;https://m.media-amazon.com/images/I/41fcLg45F3L.__AC_SX300_SY300_QL70_ML2_.jpg;11.2;7.7;3.1;centímetros;50;g;
+7896637689311;Microfone Para Cftv Mic 1050 Intelbras;https://m.media-amazon.com/images/I/31UuR2P06vL.__AC_SY300_SX300_QL70_ML2_.jpg;11.1;7.6;2.4;centímetros;40;g;
+7898587270427;OEX GAME Microfone Gamer Rook MG100 - Omnidirecional - Preto;https://m.media-amazon.com/images/I/41iV733SN4L.__AC_SX300_SY300_QL70_ML2_.jpg;20.8;16.2;11.4;centímetros;320;g;
+7899854521662;Microfone Sem Fio Karsect Krd200 Dm Duplo Mão;https://m.media-amazon.com/images/I/51z9S3bms3L.__AC_SY300_SX300_QL70_ML2_.jpg;38;32;9;centímetros;1.95;kilograms;
+7898587273541;Microfone Gamer Profissional Skipper - USB - Com boatão mute - MG200 - OEX GAME - Preto;https://m.media-amazon.com/images/I/61ol-zgi+5L._AC_SY300_SX300_.jpg;14.5;14.5;7;centímetros;511;g;
+7898555219021;C3Tech Microfone Streaming MI-100BK Preto - Conexão USB, Microfone profissional Condensador, Plug and Play, Botão Mudo, Ajuste de reverberação, Botão de volume;https://m.media-amazon.com/images/I/41pI6Pd22VL.__AC_SX300_SY300_QL70_ML2_.jpg;41.9;20.9;6.7;centímetros;410;g;
+7899298628774;Minibotão Smart ISW 1001 Branco Intelbras;https://m.media-amazon.com/images/I/31AJxzNVEeL.__AC_SX300_SY300_QL70_ML2_.jpg;5.9;5.7;3.2;centímetros;30;g;
+7897982202095;Hub Mini Usb 2.0 1Entr/4Saidas Pto;https://m.media-amazon.com/images/I/513OQmibhEL.__AC_SY300_SX300_QL70_ML2_.jpg;17.4;10.6;3.8;centímetros;0.02;g;
+7897013568916;Mini Luminária LED Portátil 3w 6500k Elgin À Pilha AAA Luz Branca Fria;https://m.media-amazon.com/images/I/51kB+YtU9IL._AC_SY300_SX300_.jpg;16.4;9.6;2.2;centímetros;0.09;g;
+7897982203726;TECLADO BRIGHT MINI 0505 USB C/FIO PRETO;https://m.media-amazon.com/images/I/61XnI4hctKL.__AC_SX300_SY300_QL70_ML2_.jpg;32.8;18.4;3.8;centímetros;0.35;g;
+7898461967887;Ventisol Ventilador de Mesa Mini, 20cm, 220V;https://m.media-amazon.com/images/I/61ZaI53UUJL.__AC_SX300_SY300_QL70_ML2_.jpg;21.7;21.3;17.4;centímetros;800;g;
+7899671002771;MOCHILA APPROVE YRSLF - 7020104001U;https://m.media-amazon.com/images/I/41kDzFGnyfL._SX342_SY445_.jpg;;;;;
+7899670926337;MOCHILA NETFLIX EM ALTA PACIFIC;https://m.media-amazon.com/images/I/41i4QriTMuL.__AC_SY445_SX342_QL70_ML2_.jpg;;;;;
+7899670931591;Mochila, Pacific, Playstation Combo;https://m.media-amazon.com/images/I/51AXUXu7gYL.__AC_SY445_SX342_QL70_ML2_.jpg;;;;;

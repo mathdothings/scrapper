@@ -1,0 +1,24 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7896637679411;CHAVEIRO DE APROXIMACAO RFID 125KHZ TH 1000 INTELBRAS;https://m.media-amazon.com/images/I/414u0Z3I2GL.__AC_SY445_SX342_QL70_ML2_.jpg;;;;;
+7896637682633;Chaveiro de Acionamento RFID/PROX TH1000 MF (13.56MHZ) Intelbras;https://m.media-amazon.com/images/I/51pPH6RRKbL.__AC_SX300_SY300_QL70_ML2_.jpg;7;6.1;1.9;centímetros;50;gramas;
+7899838833422;Churrasqueira Elétrica Premium com 1800W e Bandeja Coletora Altura Ajustável Multilaser CE034;https://m.media-amazon.com/images/I/61iEpBr3gaL.__AC_SX300_SY300_QL70_ML2_.jpg;52.4;39.2;9;centímetros;2.2;quilogramas;
+7899838878386;Churrasqueira Elétrica 220V 2000W com Controle de Temperatura e Grelha Inox com 2 Alturas Multilaser - CE132;https://m.media-amazon.com/images/I/61LC9YPovEL.__AC_SX300_SY300_QL70_ML2_.jpg;9;50.5;36.5;cm;1.8;quilogramas;
+7898461974274;VENTISOL Climatizador CLIN60 PRO-02 BR/CZ 60 l 150W 220V NAC, Modelo: 14205, Cor: cinza;https://m.media-amazon.com/images/I/51reec1dbWL.__AC_SX300_SY300_QL70_ML2_.jpg;101;50;35.5;centímetros;10.3;quilogramas;
+7898461975899;Ventisol Climatizador CLIN80 PRO-02 BR/PT 80litros 150W 220V nacional;https://m.media-amazon.com/images/I/61vozrfVgdL.__AC_SX300_SY300_QL70_ML2_.jpg;11.7;0.56;0.4;Metros;13.7;quilogramas;
+7898461976261;Climatizador Evaporativo Residencial 45 Litros Ventisol CLI 45 PRO 220V;https://m.media-amazon.com/images/I/51DSAVTUGRL.__AC_SX300_SY300_QL70_ML2_.jpg;117.5;69;44;centímetros;15;quilogramas;
+7898461976247;;;116;68;42;centímetros;68;p;
+7897975011253;Clips Colorido 6Cores Com 100Un Blister - 104908;https://m.media-amazon.com/images/I/6150-azoTOL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898937975705;Clipes nº 1/0 (0) Galvanizado, caixa com 100 unidades, Chaparrau;https://m.media-amazon.com/images/I/61-b2R-krPL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898937975750;Clipes nº 8/0 Galvanizado, caixa com 25 unidades, Chaparrau;https://m.media-amazon.com/images/I/61e1aYKm3CL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7897075816611;Chapinha para cabelo azul com visor LCD, controles de temperatura, 3 configurações;https://m.media-amazon.com/images/I/51omkFnq94L.__AC_SY300_SX300_QL70_ML2_.jpg;30;8;5;centímetros;300;g;
+7897254138121;Radex OF-20, Cola em Bastão, Asuper 20 g, Multicor, Pacote de 12;https://m.media-amazon.com/images/I/51BqZgDLlVL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898904869105;Tekbond Instantânea em Gel 2g;https://m.media-amazon.com/images/I/41nrLp887aL._SY445_SX342_QL70_ML2_.jpg;;;;;
+7898904869020;Cola De Alta Resistencia Tekbond 5 Gramas - 50643;https://m.media-amazon.com/images/I/71Hkbdb3avL.__AC_SX300_SY300_QL70_ML2_.jpg;17.2;9.6;2.4;centímetros;21;g;
+7893299932199;Ar Condicionado Split Hi Wall LG Dual Inverter Compact 9.000 Btus Frio 220v R-32;https://m.media-amazon.com/images/I/41hw-n0+fGL._AC_SX342_SY445_.jpg;75.4;30.8;30.8;cm;7.3;quilogramas;
+7893299929502;Ar Condicionado Hi Wall LG Dual Inverter Voice 12.000 Btus Quente e Frio 220v R-32;https://m.media-amazon.com/images/I/51B5dWnb5tL.__AC_SY445_SX342_QL70_ML2_.jpg;90.9;38.3;25.6;cm;25;quilogramas;
+7899963917547;Split Philco PAC12000 Inverter Frio PAC12FB;https://m.media-amazon.com/images/I/51KAjy9s0dL.__AC_SX300_SY300_QL70_ML2_.jpg;10;10;10;milímetros;;;
+7899963913440;Ar Condicionado Hi Wall Eco Philco Inverter 9.000 Btus Frio 220v R-32;https://m.media-amazon.com/images/I/51VfVsQhXqL.__AC_SY445_SX342_QL70_ML2_.jpg;;;;;
+7899298645160;;;;;280;g;
+7899298658962;Conector para fios CONEX 1000 CLIP 3 VIAS;https://m.media-amazon.com/images/I/41RgK+p3rLL._AC_SY300_SX300_.jpg;21;17;14;milímetros;4.6;g;
+7899298658979;Conector para fios CONEX 1000 CLIP 2 VIAS;https://m.media-amazon.com/images/I/41cpPxKU6-L.__AC_SX300_SY300_QL70_ML2_.jpg;21;14;12;milímetros;3.3;g;
+7896637699914;Conector Para Cabo de Rede CONEX 1000 RJ45 Cat5e com 50 unidades Transparente Intelbras;https://m.media-amazon.com/images/I/51MNzfv0y9L.__AC_SY300_SX300_QL70_ML2_.jpg;13;8;1.5;centímetros;200;g;

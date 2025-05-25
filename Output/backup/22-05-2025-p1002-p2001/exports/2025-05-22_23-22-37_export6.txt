@@ -1,0 +1,24 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7896637676168;VMH 1220 B Câmera AHD Full HD Intelbras;https://m.media-amazon.com/images/I/61FvwRc1VoL.__AC_SX300_SY300_QL70_ML2_.jpg;17;16;10;centímetros;190;g;
+7896637603065;Câmera de vídeo WI-FI Inteligente intelbras FULL HD IM3 Branca;https://m.media-amazon.com/images/I/312wSgveNkL.__AC_SX300_SY300_QL70_ML2_.jpg;17.4;9.4;8;centímetros;;;
+7896637624169;Câmera de Vídeo Interna Inteligente intelbras Wi-Fi Full HD iM3 Preta;https://m.media-amazon.com/images/I/51774wYQsfL.__AC_SX300_SY300_QL70_ML2_.jpg;17.4;9.2;8;centímetros;240;g;
+7899298633334;Câmera de Vídeo Inteligente Wi-Fi iM4 C Branco Intelbras + MicroSD 32GB;https://m.media-amazon.com/images/I/41R+nGW2+JL._AC_SY300_SX300_.jpg;18.4;10;9;centímetros;450;g;
+7899298638261;intelbras CÂMERA DE VÍDEO WI-FI FULL HD IM4 C 4565517, Branco;https://m.media-amazon.com/images/I/419W1MuNdXL.__AC_SX300_SY300_QL70_ML2_.jpg;18.5;10;8.5;centímetros;415;g;
+7896637623926;Câmera de Vídeo Wi-Fi Inteligente Intelbras com MicroSD 32GB Compatível com a Alexa 360º iM4 Branca;https://m.media-amazon.com/images/I/510AZQDCO8L.__AC_SX300_SY300_QL70_ML2_.jpg;18.4;10.2;8.8;centímetros;;;
+7899298639817;Câmera de Vídeo Externa Compatível com Alexa Wi-Fi Full HD iM5+ Full Color Intelbras;https://m.media-amazon.com/images/I/414cRDnM7-L.__AC_SX300_SY300_QL70_ML2_.jpg;25.2;13.8;11.2;centímetros;800;g;
+7899298628101;intelbras Câmera de vídeo externa inteligente Wi-fi Full HD iM5 S c/microSD 32 GB Branco;https://m.media-amazon.com/images/I/31eByudtCaL.__AC_SX300_SY300_QL70_ML2_.jpg;25;13.5;11;centímetros;1;g;
+7899298633419;Intelbras Câmera de Vídeo Wi-Fi Full HD iM5 SC com cartão MicroSD 32GB Branco;https://m.media-amazon.com/images/I/41i486K47TL.__AC_SX300_SY300_QL70_ML2_.jpg;25;13.8;11.2;centímetros;660;g;
+7899298625490;Câmera Externa Inteligente iM7 Full Color Branco Intelbras;https://m.media-amazon.com/images/I/41cgshAv-4L.__AC_SX300_SY300_QL70_ML2_.jpg;19.4;15.6;15.6;centímetros;720;g;
+7899298689225;Câmera Inteligente iM6 com Conector E27 e Sensor Autotracking Intelbras;https://m.media-amazon.com/images/I/41PKOjujzKL.__AC_SX300_SY300_QL70_ML2_.jpg;19.6;10.1;10;centímetros;420;g;
+7899298692300;Câmera Wi-FI Full HD Intelbras iM7+ Zoom Full Color;https://m.media-amazon.com/images/I/61drRJeltML.__AC_SX300_SY300_QL70_ML2_.jpg;19;14;12;cm;19;x;
+7896637682985;Campainha Eletrônica Sem Fio com Bateria CIB 100 Branco Intelbras;https://m.media-amazon.com/images/I/41HAsry2bzL.__AC_SX300_SY300_QL70_ML2_.jpg;20.2;18;5.6;centímetros;112;g;
+7899298632542;Campainha Sem Fio Com Bateria CIB 101 Preto Intelbras;https://m.media-amazon.com/images/I/51VQyKWE8dL.__AC_SX300_SY300_QL70_ML2_.jpg;12.4;9.2;6.4;centímetros;140;g;
+7899298632603;Campainha Sem Fio com Bateria Intelbras CIB 101 Branco;https://m.media-amazon.com/images/I/41ko+0FhodL._AC_SY300_SX300_.jpg;10.7;10;6.4;centímetros;160;g;
+7896637683043;Campainha Sem Fio com Energia Cinética CIK 200 Branco Intelbras;https://m.media-amazon.com/images/I/41PRg9ITxyL.__AC_SX300_SY300_QL70_ML2_.jpg;19.6;16;7.4;centímetros;0.15;g;
+7897975012298;Caneta Esferográfica Retrátil Maxprint Slick- Cores Neutras Cx c/ 20;https://m.media-amazon.com/images/I/71GKhRLW4KL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898555215948;C3Tech Carregador AC-USB Universal, bivolt automatico, 2.4A, UC-215WH,Branco;https://m.media-amazon.com/images/I/41qoqtS9YEL.__AC_SX300_SY300_QL70_ML2_.jpg;14;8.2;4.8;centímetros;56;g;
+7899838806990;Smartogo Carregador Automotivo USB Unitário Sortido e Aleatório CX 9 Unidades Multilaser - CB079;https://m.media-amazon.com/images/I/41EVbzNLxjS.__AC_SX300_SY300_QL70_ML2_.jpg;12;3;3;centímetros;60;g;
+7899838808239;Carregador Automotivo 2 Entradas Usb 2.1A Com Cabo Micro Usb Espiral Multi - CB083;https://m.media-amazon.com/images/I/7143lVekxTL.__AC_SX300_SY300_QL70_ML2_.jpg;4;19.3;14;cm;0.7;g;
+7898506456369;Carregador De Pilhas Multilaser AA/AAA + 4 Pilhas Aa 2500Mah - CB054;https://m.media-amazon.com/images/I/51vehp7FKnL.__AC_SX300_SY300_QL70_ML2_.jpg;17.8;8.6;5.4;centímetros;500;g;
+7898615150097;Carregador de Celular Micro USB Bivolt, XCELL, XCCPV8, Preto;https://m.media-amazon.com/images/I/61WIPsiAQ0L.__AC_SX300_SY300_QL70_ML2_.jpg;11.4;8.8;3.4;centímetros;56;g;
+7897982206208;Bright 0476, Carregador de Mesa, 6 Portas USB;https://m.media-amazon.com/images/I/51Wa7IpO3WS.__AC_SX300_SY300_QL70_ML2_.jpg;21.4;15;4.8;centímetros;0.5;g;

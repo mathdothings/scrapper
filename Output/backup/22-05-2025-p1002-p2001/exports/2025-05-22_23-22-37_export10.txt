@@ -1,0 +1,11 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7899634000769;Pijama Infantil Unicórnio Macacão -;https://m.media-amazon.com/images/I/81HPxO1XkaL.__AC_SY445_SX342_QL70_ML2_.jpg;;;;;
+7899634000745;Pijama Infantil Unicórnio Macacão -;https://m.media-amazon.com/images/I/81HPxO1XkaL.__AC_SY445_SX342_QL70_ML2_.jpg;;;;;
+7898506462292;Capa Tablet Smart Multilaser Cover 9.7 Pol. Preto - BO193;https://m.media-amazon.com/images/I/61kF-A8G6nL.__AC_SX300_SY300_QL70_ML2_.jpg;27.2;20.4;2.4;centímetros;203;g;
+7898506474738;Mídia Cd-R Vel. 52X - 50 Un. Shrink - CD051;https://m.media-amazon.com/images/I/61A1elf+RWL._AC_SY300_SX300_.jpg;12;11.8;6.4;centímetros;70;g;
+7898149183196;Mídia Cd-R Velocidade 52X Unitário Em Envelope Multilaser CD006;https://m.media-amazon.com/images/I/617f3+m+lcL._AC_SY300_SX300_.jpg;12.5;12.3;0.4;centímetros;75;g;
+7890552080703;CDR Gravável Embalagem Super Slim Nipponic;https://m.media-amazon.com/images/I/61NNOJNQVwL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7899838839240;Celular Up Play Dual Chip MP3 com Câmera Preto Multilaser - P9076;https://m.media-amazon.com/images/I/71hzqXW5aEL.__AC_SX300_SY300_QL70_ML2_.jpg;12.8;8.8;7;centímetros;0.18;g;
+7899298625865;Central de Alarme 64 Zonas S/Fio RJ45 ou Wi-Fi com sirene monitorado via App celular Intelbras AMT 8000 PRO;https://m.media-amazon.com/images/I/21K5UWXEDCL.__AC_SX300_SY300_QL70_ML2_.jpg;25;20;15;centímetros;850;g;
+7899298652793;Central de alarme monitorada smart Intelbras AMT 1000 SMART;https://m.media-amazon.com/images/I/31vvXUpB92L.__AC_SX300_SY300_QL70_ML2_.jpg;20;20;10;centímetros;;;
+7899298621898;;;;;;;

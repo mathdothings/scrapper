@@ -1,0 +1,8 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7898119100567;Cartucho de Tinta Compatível para HP 122xl 122 Marca Masterprint para Deskjet J110a J210a J510a 3050 J610a Colorido 13ml;https://m.media-amazon.com/images/I/71h2lbHmjbL.__AC_SX300_SY300_QL70_ML2_.jpg;19;12;8;centímetros;260;g;
+7898506462865;;;15;15;15;cm;500;gramas;
+7898555215375;CAPA SLEEVE P/NB 15" SEATTLE SL-15 PRETO C3T, C3TECH, Mochilas, capas e maletas para notebook;https://m.media-amazon.com/images/I/51z0O24LXNL.__AC_SX300_SY300_QL70_ML2_.jpg;42.8;29.4;1.8;centímetros;155;g;
+7898506463978;Case Hd Multilaser Azul Sata 2.5 - GA117;https://m.media-amazon.com/images/I/81RMGUQ8VXL.__AC_SY300_SX300_QL70_ML2_.jpg;14.8;9.2;4;centímetros;0.2;g;
+7898587272681;;;39;29.5;1;cm;260;g;
+7899838801803;Case Para Hd Ssd 2,5 Pol. Multilaser Preto- GA138;https://m.media-amazon.com/images/I/41dd2grhXaL.__AC_SX300_SY300_QL70_ML2_.jpg;14.6;9;4;centímetros;0.2;g;
+7898554601872;Case para HD 2.5 Externo, Fortrek, Preto;https://m.media-amazon.com/images/I/61TTHYGpkYL.__AC_SX300_SY300_QL70_ML2_.jpg;17.8;13.8;4.4;centímetros;350;g;

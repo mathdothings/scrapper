@@ -1,0 +1,27 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7899831310258;WAP Parafusadeira e Furadeira de Impacto 1/2" EFPI-1000, com Empunhadura Emborracha e Maleta Organizadora, 1000W 220V;https://m.media-amazon.com/images/I/71wbKSlCk-L.__AC_SX300_SY300_QL70_ML2_.jpg;33;31.4;10;centímetros;2.3;quilogramas;
+7899831331109;WAP Parafusadeira e Furadeira de Impacto 3/8" WF-700FE, com Chave de Mandril, Controle de Velocidade, 700W 220V;https://m.media-amazon.com/images/I/61GGmEpaK-L.__AC_SX300_SY300_QL70_ML2_.jpg;27.2;23.4;9.4;centímetros;1.2;quilogramas;
+7898554606808;Gabinete Gamer Cruiser Mid Tower Preto RGB Fortrek;https://m.media-amazon.com/images/I/81xvqPpFyTL.__AC_SX300_SY300_QL70_ML2_.jpg;49.6;44;27.8;centímetros;4.34;kilograms;
+7898554607997;Gabinete Gamer Clarity Branco Lateral Vidro Fortrek;https://m.media-amazon.com/images/I/71VyxubJAAL.__AC_SX300_SY300_QL70_ML2_.jpg;42.8;41;33.7;centímetros;4.86;kilograms;
+7898554607980;Gabinete Gamer Clarity Preto Lateral Vidro Fortrek;https://m.media-amazon.com/images/I/81L6M0Zp9iL.__AC_SX300_SY300_QL70_ML2_.jpg;42.4;40.7;33.7;centímetros;4.83;kilograms;
+7899095438026;Gabinete Gamer Hayom, 4 Fans rgb, Lateral e Frontal Em Vidro Temperado, Preto - GB1749;https://m.media-amazon.com/images/I/51dj8CAGvcL.__AC_SX300_SY300_QL70_ML2_.jpg;47;37.3;24;centímetros;4;kilograms;
+7899838850924;Gabinete Gamer Modoc Painel Lateral Temperado Preto Warrior - GA178;https://m.media-amazon.com/images/I/5143G2-VK9L.__AC_SX300_SY300_QL70_ML2_.jpg;49.8;47.4;23.8;centímetros;4;kilograms;
+7898555215269;;;42.5;38;18.5;cm;3470;gramas;
+7898555216846;Gabinete Gamer C3Tech MT-G680SBK, Mid Tower, lateral em Vidro, Fitas de Led RGB frontais, Toolless, Organizador de cabos, Filtro anti-poeira, Compativel com Placa-Mãe ATX, Micro ATX, ITX, Preto;https://m.media-amazon.com/images/I/51yvWTOSteL.__AC_SX300_SY300_QL70_ML2_.jpg;51.3;42.9;26.1;centímetros;4.5;kilograms;
+7898555213418;Gabinete Gamer Mt-G70 Bk S/Fonte C3Tech, Preto, Médio;https://m.media-amazon.com/images/I/610pmAraPqL.__AC_SX300_SY300_QL70_ML2_.jpg;47.3;45;25.3;centímetros;2.74;kilograms;
+7898562619944;;;43.5;38.5;19;cm;4360;gramas;
+7898562619937;Gabinete Gamer ATX Iluminacao RGB Ajustavel OEX Game Preto;https://m.media-amazon.com/images/I/513NoEPK+XL._AC_SY300_SX300_.jpg;49.2;44.6;24.6;centímetros;5.17;kilograms;
+7898554606822;Gabinete Gamer Mid Tower HOLT RGB FORTREK;https://m.media-amazon.com/images/I/713Y8wLdiWL.__AC_SX300_SY300_QL70_ML2_.jpg;50;44.2;27.4;centímetros;3.9;kilograms;
+7898555219076;Gabinete C3Tech Gaming Preto MT-G80BK Mid Tower Organizador de cabos Screwless;https://m.media-amazon.com/images/I/41uDhOnNYOL.__AC_SX300_SY300_QL70_ML2_.jpg;45.9;45.2;25.1;centímetros;2.15;kilograms;
+7898555217034;Gabinete Micro ATX C3Tech, preto, com fonte 200w, MT-24V2BK;https://m.media-amazon.com/images/I/61cCMn9sAoL.__AC_SX300_SY300_QL70_ML2_.jpg;42.6;37.4;21.4;centímetros;2.7;kilograms;
+7898555217058;Gabinete Micro ATX C3Tech, preto, com fonte 200w, MT-25V2BK;https://m.media-amazon.com/images/I/61bxzqXTHLL.__AC_SX300_SY300_QL70_ML2_.jpg;42.5;37.5;21.2;centímetros;2.7;kilograms;
+7892110128391;Game FIFA Soccer 12 - PS3 - Warner Bros Games;https://m.media-amazon.com/images/I/71y49hfWRCL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7892110198059;Jogo FIFA 15 - Xbox One;https://m.media-amazon.com/images/I/710vtrHWdeL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898555210561;C3TECH CH-200 USB 2.0 HD Capa, Preto;https://m.media-amazon.com/images/I/51Lg0cfxrFL.__AC_SX300_SY300_QL70_ML2_.jpg;15.2;10.2;3.6;centímetros;120;g;
+7898555210585;Gaveta para HD externo 2.5", USB 2.0, C3Tech - CH-200GY, 413060060202, Cinza;https://m.media-amazon.com/images/I/61GF8YBr32L.__AC_SX300_SY300_QL70_ML2_.jpg;15.8;11.4;5.4;centímetros;120;g;
+7898555210578;;;3.6;16.4;11.8;cm;120;g;
+7898555210547;Gaveta para HD USB 3.0 CH-300BK, C3TECH;https://m.media-amazon.com/images/I/7121zdGEZJL.__AC_SX300_SY300_QL70_ML2_.jpg;16;11.2;5.6;centímetros;120;g;
+7898907620215;;;7.8;12;1.2;cm;45;gramas;
+7898907620116;C3Tech Gaveta para HD Externo CH-C300BK Preto 2,5" SATA USB-C 3.0 suporta até 6TB fabricado em plástico PC Tool Less;https://m.media-amazon.com/images/I/41W45bTXz0L.__AC_SX300_SY300_QL70_ML2_.jpg;15.5;11.8;3.6;centímetros;55;g;
+7898378255305;Gaveta de Dinheiro Bematech GD-36;https://m.media-amazon.com/images/I/411Pj7q5srL.__AC_SX300_SY300_QL70_ML2_.jpg;47;46.8;15.8;centímetros;7301;gramas;
+7897075822452;Gaveta MG-40 CS ECO PRETA – Manual;https://m.media-amazon.com/images/I/716qU8mHbXL.__AC_SY300_SX300_QL70_ML2_.jpg;;;;;

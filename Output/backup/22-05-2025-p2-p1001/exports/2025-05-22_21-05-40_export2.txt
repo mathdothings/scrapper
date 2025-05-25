@@ -1,0 +1,25 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7899744056571;5+ 003-0141 Adaptador USB C para HDMI 4K Femea, Cinza, 60Hz;https://m.media-amazon.com/images/I/61nrDJNQxuS.__AC_SX300_SY300_QL70_ML2_.jpg;14.7;10.5;0.8;centímetros;20;g;
+7896637677660;Adaptador USB Wireless Dual Band ACtion A1200 Branco Intelbras;https://m.media-amazon.com/images/I/316W6abSpIL.__AC_SX300_SY300_QL70_ML2_.jpg;13.6;9.4;2.8;centímetros;60;g;
+7896637677554;Adaptador USB Wireless IWA 3001 Preto Intelbras;https://m.media-amazon.com/images/I/51dJO-WAQEL.__AC_SX300_SY300_QL70_ML2_.jpg;13.8;11.8;3;centímetros;60;g;
+7899744061018;5+ Adaptador USB 2.0 para Rede RJ45 Ethernet 10/100 Mbs, Preto;https://m.media-amazon.com/images/I/41pPWNNiVSL.__AC_SX300_SY300_QL70_ML2_.jpg;7;2;1.6;centímetros;20;g;
+7898554608192;Adaptador USB-A Para USB-C Fortrek UA2C;https://m.media-amazon.com/images/I/715j1R-lQvL.__AC_SX300_SY300_QL70_ML2_.jpg;9.5;6;0.5;centímetros;20;g;
+7898554608185;Adaptador USB-C Para USB-A Fortrek UC2A;https://m.media-amazon.com/images/I/71bwwspUQmL.__AC_SX300_SY300_QL70_ML2_.jpg;10;6;1;centímetros;10;g;
+7898506457144;Adaptador Usb Wireless Multilaser 150Mbps - RE035, white;https://m.media-amazon.com/images/I/418CHKyuwtL.__AC_SX300_SY300_QL70_ML2_.jpg;13.6;9.6;1.2;centímetros;0.1;g;
+7898506462094;Mini Adaptador USB Wireless 300 Mbps Dongle Multilaser - RE052;https://m.media-amazon.com/images/I/41FekvYmtzL.__AC_SY300_SX300_QL70_ML2_.jpg;14.8;9.4;0.8;centímetros;20;g;
+7896041959048;Etiqueta Adesiva Escolar Pimaco, Com Pauta, Meninas, 886619, 18 unidades;https://m.media-amazon.com/images/I/71LLNyc9Y5L.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7896041959055;Etiqueta Adesiva Pimaco, Multiuso-Escolar, Estampas coloridas, 35,5x80mm, Envelope com 6 fls-18 etiquetas, 886620;https://m.media-amazon.com/images/I/71I8Tf2XdML.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7899014748892;Agenda 2019 Executiva Básica Pombo Espiral Cores Sortidas B6800-000V 24929;https://m.media-amazon.com/images/I/41R3lkWaQxL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7899014720775;Agenda Diária Asta Preta Percalux UX 2019 176 Folhas (145X205) Pombo;https://m.media-amazon.com/images/I/61WcV54DRGL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898461972164;FRITADEIRA ELE.S/OLEO 3,6L AGRA220;https://m.media-amazon.com/images/I/71Y41EjTYdL.__AC_SX300_SY300_QL70_ML2_.jpg;37.1;31.1;30.8;centímetros;4.9;quilogramas;
+7899838829968;;;32;32;30;cm;3860;gramas;
+7898446730765;Lenço De Alcool Isopropilico 70% Higienizador De Bolso;https://m.media-amazon.com/images/I/61Hyj0kmKBL.__AC_SX300_SY300_QL70_ML2_.jpg;6;5;1;centímetros;3;g;
+7898105773485;Multímetro Amperímetro Alicate Digital Foxlux;https://m.media-amazon.com/images/I/61e6kJ0+6sS._AC_SY300_SX300_.jpg;28;12.2;5.8;centímetros;400;g;
+7898105773737;Alicate De Bico Reto 6 Polegadas;https://m.media-amazon.com/images/I/51X-PTm-UsL.__AC_SX300_SY300_QL70_ML2_.jpg;12.2;4.8;0.8;centímetros;0.17;g;
+7898555216693;PlusCable Alicate Inserção Punch Down Lt-P10 Branco - Compatível Com Rj11 E Rj45;https://m.media-amazon.com/images/I/41QbQn489CL.__AC_SX300_SY300_QL70_ML2_.jpg;26.2;5.6;3.8;centímetros;50;g;
+7898105779036;Alicate Crimpar Acr6 Term Rg6/Rg59;https://m.media-amazon.com/images/I/51yVLo6w1-L.__AC_SX300_SY300_QL70_ML2_.jpg;8.2;4;2;centímetros;0.3;g;
+7899744041898;Kokay 056-2008 Alicate Universal 8";https://m.media-amazon.com/images/I/41VV8WwuhrS.__AC_SX300_SY300_QL70_ML2_.jpg;24.4;6.4;1;centímetros;260;g;
+7897254101248;Radex ALF03-VM, Almofada Carimbo N. 3, Multicolor;https://m.media-amazon.com/images/I/619PRQUKBHL.__AC_SY300_SX300_QL70_ML2_.jpg;;;;;
+7898119105289;Almofada Carimbo N.3, Masterprint, Azul, MP 772;https://m.media-amazon.com/images/I/71Ra8+rzfaL._AC_SX300_SY300_.jpg;;;;;
+7899298623458;intelbras Alto falante Inteligente Smart Compatível com Alexa IZY Speak ISS 102 A Preto;https://m.media-amazon.com/images/I/51MowzBjyRL.__AC_SX300_SY300_QL70_ML2_.jpg;20;10.6;10.2;centímetros;10.2;p;
+7898926682485;LNBF Universal Banda Ku Monoponto Greatek USO-7104AX;https://m.media-amazon.com/images/I/41QlTubaNxS.__AC_SX300_SY300_QL70_ML2_.jpg;16;11;10;centímetros;1.5;kilograms;

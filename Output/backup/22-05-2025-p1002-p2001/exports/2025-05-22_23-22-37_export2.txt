@@ -1,0 +1,20 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7898476324712;Caixa De Som Multilaser Shadow 20 Usb 8W Rms Preto - SP091;https://m.media-amazon.com/images/I/51zglh5kYSL.__AC_SX300_SY300_QL70_ML2_.jpg;21.2;13.4;9.2;centímetros;500;g;
+7898506460595;Caixas de Som 2.0 3w Rms Alimentação Usb Conexão P2 Controle de Volume Som Estéreo Preto - SP144;https://m.media-amazon.com/images/I/51gmOWS4rpL.__AC_SX300_SY300_QL70_ML2_.jpg;13.2;7.8;7.6;centímetros;230;g;
+7899838879895;Caixa De Som 2.1 Bass 20W Bivolt - SP377;https://m.media-amazon.com/images/I/41MxXuWFvVL.__AC_SY300_SX300_QL70_ML2_.jpg;32.6;24.4;18;centímetros;1.89;kilograms;
+7896359575879;JBL, Soundbar, Bluetooth, Cinema SB180, 2.1 Canais, Subwoofer de 6,5" Sem Fio;https://m.media-amazon.com/images/I/41aOI79kdTL.__AC_SX300_SY300_QL70_ML2_.jpg;100.5;55.8;11.9;centímetros;21.8;p;
+7896637683609;Caixa De Passagem P/cam - Cftv Metal Bullet Int-vbox 3000 Intelbras;https://m.media-amazon.com/images/I/41nniKrrsYL.__AC_SX300_SY300_QL70_ML2_.jpg;16;11;4;centímetros;310;g;
+7896637683586;Caixa Metálica para Sustentação de Câmeras VBOX 3000 D Intelbras;https://m.media-amazon.com/images/I/314jAwmOjtL.__AC_SY300_SX300_QL70_ML2_.jpg;16;12;10;centímetros;500;g;
+7898504380819;Caixa Organizadora Polibras The Best Box - Grande Preta (Fosca) 43x31x24;https://m.media-amazon.com/images/I/61wRRQgHaEL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898504380840;Caixa Organizadora The Best Box G 437x310x240 Vermelho - 01 Unidade Polibras, Vermelho;https://m.media-amazon.com/images/I/41REg1wQwFL.__AC_SY300_SX300_QL70_ML2_.jpg;;;;;
+7898504380741;;;30;4;18.5;centímetros;30;c;
+7898504380772;Caixa Organizadora The Best Box M 370x280x212 Vermelho - 01 Unidade Polibras, Vermelho;https://m.media-amazon.com/images/I/51Jwt0A6dYL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898504393789;Polibras Caixa Organizadora The Best Box G, 437x310x240mm, Lilás Pastel;https://m.media-amazon.com/images/I/71T9+0QbGcL._AC_SX300_SY300_.jpg;;;;;
+7898504381168;Caixa Organizadora Polibras Novaonda Cristal - Grande 43x31x24;https://m.media-amazon.com/images/I/41AKHfWqOUL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898504381113;Caixa Organizadora Polibras Novaonda Cristal - Média 37x28x21, 22917;https://m.media-amazon.com/images/I/51AyOx-+erL._AC_SY300_SX300_.jpg;;;;;
+7898504393765;Polibras Caixa Organizadora The Best Box G, 437x310x240mm, Azul Pastel;https://m.media-amazon.com/images/I/711ytmpCLFL.__AC_SY300_SX300_QL70_ML2_.jpg;;;;;
+7898504393772;Polibras Caixa Organizadora The Best Box G, 437x310x240mm, Rosa Pastel;https://m.media-amazon.com/images/I/41-IrGd6ZWL.__AC_SY300_SX300_QL70_ML2_.jpg;;;;;
+7896637691796;Caixa Plástica de Passagem VBOX 1100 E Intelbras;https://m.media-amazon.com/images/I/41DDfqohRCL.__AC_SY300_SX300_QL70_ML2_.jpg;11.9;11.6;5.8;centímetros;135;g;
+7897474141031;Calculadora Cientifica V-82MS Preta VIGHS;https://m.media-amazon.com/images/I/61uVIlL0D6L.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898119103599;CALCULADORA DE MESA 12 DIGITOS MP 1061 - MASTERPRINT;https://m.media-amazon.com/images/I/61Pb5GwNe8L.__AC_SX300_SY300_QL70_ML2_.jpg;19;12;5;centímetros;120;g;
+7898119103643;;;;;;;

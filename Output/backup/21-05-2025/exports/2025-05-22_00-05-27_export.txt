@@ -1,0 +1,5 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7896637676168;VMH 1220 B Câmera AHD Full HD Intelbras;https://m.media-amazon.com/images/I/61FvwRc1VoL.__AC_SX300_SY300_QL70_ML2_.jpg;17;16;10;centímetros;190;g;
+7896637603065;Câmera de vídeo WI-FI Inteligente intelbras FULL HD IM3 Branca;https://m.media-amazon.com/images/I/312wSgveNkL.__AC_SX300_SY300_QL70_ML2_.jpg;17.4;9.4;8;centímetros;;;
+7896637624169;Câmera de Vídeo Interna Inteligente intelbras Wi-Fi Full HD iM3 Preta;https://m.media-amazon.com/images/I/51774wYQsfL.__AC_SX300_SY300_QL70_ML2_.jpg;17.4;9.2;8;centímetros;240;g;
+7899298633167;Câmera Inteligente Interna 360° Compatível com Alexa Wi-Fi Full HD IM4 C Branco Intelbras;https://m.media-amazon.com/images/I/417H8YGi4lL.__AC_SX300_SY300_QL70_ML2_.jpg;18.4;9.6;9;centímetros;3.87;kilograms;

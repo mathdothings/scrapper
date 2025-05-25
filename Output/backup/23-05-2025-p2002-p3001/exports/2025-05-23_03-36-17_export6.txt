@@ -1,0 +1,26 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7897254100401;Corretivo Líquido Base Água Atima 18ML;https://m.media-amazon.com/images/I/510q4MQj0dL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7897254113302;Corretivo Liquído Office Blanc 18 ml - Radex C-OB;https://m.media-amazon.com/images/I/51Uf8KZx9BL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898426276511;Papel Couche, Usa Folien, A4, Branco, 120G, Pacote com 100 Folhas;https://m.media-amazon.com/images/I/510MQz1y+fL._AC_SY300_SX300_.jpg;;;;;
+7898426276641;;;;;;;
+7896637673259;Roteador Intelbras APC-5A-15 C/ Antena 15 DBI;https://m.media-amazon.com/images/I/412t65bKR-L.__AC_SX300_SY300_QL70_ML2_.jpg;20;10;10;centímetros;150;g;
+7898922999679;Ponte sem fio Ubiquiti Nanobeam M5-16 (NBE-M5-16), branca;https://m.media-amazon.com/images/I/31919yT0cmL.__AC_SX300_SY300_QL70_ML2_.jpg;19.3;17.3;11.4;centímetros;500;g;
+7896637673266;Roteador Intelbras APC-5A-20 S/ Fio 20 DBI - 4750040;https://m.media-amazon.com/images/I/31IgKih7rQL.__AC_SY300_SX300_QL70_ML2_.jpg;19;19;8;centímetros;700;g;
+7896637620123;;;34;24;9;cm;1.49;kilograms;
+7896637676267;intelbras Roteador Wireless (CPE) 5GHZ 16DBI - WOM 5A SiSo 1X1 Outdoor, 4750060;https://m.media-amazon.com/images/I/51iFRLYs0NL.__AC_SX300_SY300_QL70_ML2_.jpg;27;13.2;8.2;centímetros;698;g;
+7898105779067;Decapador Para Cabo Coaxial;https://m.media-amazon.com/images/I/51KEjo+JE9L._AC_SY300_SX300_.jpg;18.6;9.6;2.2;centímetros;55;g;
+7898953372076;Apoio Para Pés AP25 Preto Masticmol;https://m.media-amazon.com/images/I/41OIwmNLfDL.__AC_SX300_SY300_QL70_ML2_.jpg;43;32.1;11.5;centímetros;860;g;
+7899838807164;Suporte Para Pés Ajustável Ergonômico Preto Multilaser Ac279;https://m.media-amazon.com/images/I/71WiU6HQUPL.__AC_SY300_SX300_QL70_ML2_.jpg;40.8;30.6;9.8;centímetros;1.06;quilogramas;
+7898476325955;Descanso Para Os Pés Multilaser - AC059;https://m.media-amazon.com/images/I/61Lj+KOs2oS._AC_SX300_SY300_.jpg;45.2;31;5;centímetros;1.3;g;
+7898173508422;Canudo de Inox Caipirinha (Azul);https://m.media-amazon.com/images/I/61i9NWULWkL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7899838894089;Desktop Ryzen 3 4GB + 1TB Linux - DT050;https://m.media-amazon.com/images/I/518KSte10vL.__AC_SY300_SX300_QL70_ML2_.jpg;48;41.2;37.8;centímetros;5.44;kilograms;
+7896637674171;;;11;11;6;cm;150;g;
+7896637687072;Detector De Temperatura Convencional Dtc 421un Intelbras;https://m.media-amazon.com/images/I/41PzG5MTEcL.__AC_SX300_SY300_QL70_ML2_.jpg;10;8;6;centímetros;200;g;
+7899298662723;Sensor de Temperatura e Umidade Inteligente Mibo Smart MTU 1001 Branco Intelbras;https://m.media-amazon.com/images/I/41CbS3uWa7L.__AC_SX300_SY300_QL70_ML2_.jpg;7.9;7.9;5.7;centímetros;90;g;
+7899838832050;SSD Multilaser 2, 5 120GB AXIS 400 GRAVAÇÃO 400 MB/S - SS101;https://m.media-amazon.com/images/I/51wmwXLakwL.__AC_SX300_SY300_QL70_ML2_.jpg;14.6;13.8;1.8;centímetros;60;g;
+7898149188504;;;13;10.4;1.7;cm;37;g;
+7899980100809;CEC GLOBAL KE-SSD128E;https://m.media-amazon.com/images/I/41YBjqtTlLL.__AC_SX300_SY300_QL70_ML2_.jpg;16.4;13.2;2.6;centímetros;100;g;
+7899838818054;;;2.2;15.1;12.3;cm;200;g;
+7898966439117;Hd Ssd M.2 Winmemory 256gb Sata 3;https://m.media-amazon.com/images/I/51v257jh8GS.__AC_SX300_SY300_QL70_ML2_.jpg;23;19;13;centímetros;300;g;
+7896637647595;Distribuidor De Vídeo Ip Intelbras DVIP 1000;https://m.media-amazon.com/images/I/31YOmEpOm5L.__AC_SX300_SY300_QL70_ML2_.jpg;44;33;33;cm;300;g;
+7896637635387;intelbras Splitter Divisor HDMI VEX 3004 Preto;https://m.media-amazon.com/images/I/41JB6QMUyuL.__AC_SY300_SX300_QL70_ML2_.jpg;22.7;16.2;3.6;centímetros;200;g;

@@ -1,0 +1,19 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7896041997040;Papel Fotográfico A4 170g Glossy/Matte, BIC, Pimaco, Pi1070G, 874889, Branca, 10 Folhas;https://m.media-amazon.com/images/I/81qZRy1PkQL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898119104336;;;;;;;
+7898119104367;GRAMPEADOR DE MESA METAL MP 400 - MASTERPRINT;https://m.media-amazon.com/images/I/41+BHl5VDKL._AC_SY300_SX300_.jpg;;;;;
+7898119104428;Grampeador Modelo Alicate para Delivery Masterprint, até 25 folhas, Preto;https://m.media-amazon.com/images/I/61xcG9jd8YL.__AC_SY300_SX300_QL70_ML2_.jpg;;;;;
+7898587272919;Grampeador para 20 folhas - OEX Office GR10 - Preto com laranja, 48.7928;https://m.media-amazon.com/images/I/41SzCSHFMML.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7899838886534;;;;;;;
+7898119104312;;;;;;;
+7896637631518;Organizador de cabos 1U OCH1U 40 Intelbras;https://m.media-amazon.com/images/I/41VDC8EvDYS.__AC_SY300_SX300_QL70_ML2_.jpg;9;5;5;centímetros;400;g;
+7896637631501;ORGANIZADOR DE CABOS HORIZONTAL INTELBRAS 1U OCH1U 80MM PARA RACK;https://m.media-amazon.com/images/I/41E4D3S7RkS.__AC_SX300_SY300_QL70_ML2_.jpg;49.5;10;6.5;centímetros;811;g;
+7898706590085;Guilhotina de Papel A4 10 folhas Procalc;https://m.media-amazon.com/images/I/51-twW92hoL.__AC_SY300_SX300_QL70_ML2_.jpg;;;;;
+7896637656535;;;2.61;14.7;10.16;cm;0.68;g;
+7896637666022;Disco Rígido Wd Purple 6Tb - Wd60Purz Intelbras, HD interno, Roxo;https://m.media-amazon.com/images/I/21-06wWGGJL.__AC_QL70_ML2_.jpg;15;10.8;4;centímetros;0.75;g;
+7896637673457;Hd Interno Wd Purple Sata 128mb 8 Tera WD80PURX Intelbras;https://m.media-amazon.com/images/I/61zRvRPc1oL.__AC_SX300_SY300_QL70_ML2_.jpg;25;25;10;cm;900;g;
+7898554608000;;;;;200;g;
+7896637625227;Fone de Ouvido Headset Bluetooh WHS 80 BT Preto Intelbras;https://m.media-amazon.com/images/I/417X7BwDy7L.__AC_SX300_SY300_QL70_ML2_.jpg;22.4;16.2;4.4;centímetros;159;g;
+7896637631563;Fone de Ouvido Headset USB CHS 40 Preto Intelbras;https://m.media-amazon.com/images/I/417Jf4FEG+L._AC_SY300_SX300_.jpg;15.4;13.2;5.8;centímetros;160;g;
+7898554605733;Fortrek H2 - Headset Gamer Pro Microfones e Fones de Ouvido, Preto (Leds Azul);https://m.media-amazon.com/images/I/715099pgIPL.__AC_SX300_SY300_QL70_ML2_.jpg;24.9;20.9;11.4;centímetros;500;g;
+7898554606792;Headset Gamer RGB Vickers Preto Fortrek;https://m.media-amazon.com/images/I/51DQ0wBq1gL.__AC_SX300_SY300_QL70_ML2_.jpg;23.4;19.4;9.8;centímetros;505;g;

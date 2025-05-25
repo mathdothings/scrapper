@@ -1,0 +1,18 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7897013561276;Carregador USB de Tomada + Carregador Veicular 1 Saída 1A 5W + Cabo MicroUSB de 1 Metro Elgin Branco Bivolt;https://m.media-amazon.com/images/I/41k5uUnmEwL.__AC_SY300_SX300_QL70_ML2_.jpg;13.8;9.4;2.6;centímetros;53;g;
+7898506471362;Kit de Ferramentas de Aço 24 Peças com Case Compacto Multilaser - AU310;https://m.media-amazon.com/images/I/91PUO9IPDJL.__AC_SX300_SY300_QL70_ML2_.jpg;6;18.5;18;cm;0.6;g;
+7896637646024;;;;;4;kilograms;
+7896637648370;Telefone Celular Fixo Cfa 5022 Dual Chip Desbloqueado Viva Voz com Cabo Antena, Intelbras, 3301339, Branco;https://m.media-amazon.com/images/I/51c4zH7ujdL.__AC_SX300_SY300_QL70_ML2_.jpg;9;2;1;milímetros;3.55;g;
+7899838894164;Kit Marcador Quadro Branco 2 Unidades C/ Apagador Magnético Keep - MR010;https://m.media-amazon.com/images/I/41cLt0XGDiL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7899838807171;Kit Teclado e Mouse sem fio Slim Multi conexão USB Preto - TC202;https://m.media-amazon.com/images/I/51SHKP6MZFL.__AC_SY300_SX300_QL70_ML2_.jpg;41.6;11.4;4.4;centímetros;420;g;
+7898555218666;C3Tech Combo Teclado e Mouse sem fio Preto K-W100BK - Layout ABNT2 Multimídia, Anti Respingo, teclas de atalho multimidia oferece alto desempenho e durabilidade, MacOS, Linux, PC;https://m.media-amazon.com/images/I/41TUNu9lb4L.__AC_SX300_SY300_QL70_ML2_.jpg;52.8;15.2;4;centímetros;440;g;
+7898555216037;Kit Teclado + mouse C3Plus Sem Fio Preto - K-W11BK;https://m.media-amazon.com/images/I/51KvRZYHf8L.__AC_SX300_SY300_QL70_ML2_.jpg;51.2;15;3.8;centímetros;565;g;
+7898555218567;C3Tech combo Teclado e Mouse sem fio K-W60BK preto wifi layout ABNT2 ambidestro DPI ajustavel 12 teclas de atalho multimidia anti respingo regulagem de altura Slim receptor Nano USB;https://m.media-amazon.com/images/I/51ONJ08xSSL.__AC_SX300_SY300_QL70_ML2_.jpg;54.4;20.7;5.1;centímetros;435;g;
+7898491460341;Teclado + Mouse Optico sem Fio 1000DPI K-W600BK Preto C3 TECH;https://m.media-amazon.com/images/I/61z7yGVplQL.__AC_SX300_SY300_QL70_ML2_.jpg;52;14;5;cm;700;g;
+7897982202040;Bright, 55, Combo Teclado e Mouse Sem Fio Slim 2, Teclado com Apoio Ergonômico, Padrão ABNT2, 107 teclas, Mouse Ambidestro, 3 Botões, PRETO;https://m.media-amazon.com/images/I/61Xon4glAvL.__AC_SX300_SY300_QL70_ML2_.jpg;51.8;16.2;4;centímetros;;;
+7898555213364;Teclado e Mouse kit Gamer Com Fio Gk-20 C3tech;https://m.media-amazon.com/images/I/513bSgl0ysL.__AC_SX300_SY300_QL70_ML2_.jpg;52.8;17.5;4.6;centímetros;700;g;
+7898506460526;;;20;20;20;cm;500;g;
+7897013572876;Lampada Bulbo Led A55 6w Bivolt 6500k Elgin;https://m.media-amazon.com/images/I/51IabNueDJL.__AC_SX300_SY300_QL70_ML2_.jpg;11;5.6;5.6;centímetros;30;g;
+7897013572890;;;11;6;6;cm;54;gramas;
+7899298607267;Lâmpada LED Smart Wi-Fi EWS 409 - Intelbras;https://m.media-amazon.com/images/I/41F73leoc7L.__AC_SY445_SX342_QL70_ML2_.jpg;23;19;13;centímetros;300;g;
+7896637634168;Lâmpada Smart Inteligente EWS 410 com 16 milhões de cores Wi-Fi compatível com Alexa Intelbras;https://m.media-amazon.com/images/I/61b4xy6DawL.__AC_SY300_SX300_QL70_ML2_.jpg;15.3;6.3;6.2;centímetros;70;g;

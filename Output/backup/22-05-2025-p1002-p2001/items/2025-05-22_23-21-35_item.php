@@ -1,0 +1,217 @@
+<?php
+
+$links = array (
+  7898119100567 => 
+  array (
+    'nome_produto' => 'Cartucho de Tinta Compatível para HP 122xl 122 Marca Masterprint para Deskjet J110a J210a J510a 3050 J610a Colorido 13ml',
+    'info_produto' => 
+    array (
+      'Marca' => 'Masterprint',
+      'Fabricante' => 'Masterprint',
+      'Modelo' => '122xl 122 CL',
+      'Nome do modelo' => '122xl 122 CL',
+      'Certificação' => 'Não aplicável',
+      'Número da peça' => '122xl 122 CL',
+      'Cor da tinta' => 'multicolorido',
+      'Aparelhos compatíveis' => 'Impressora',
+      'Compatibilidade' => 'Compatível',
+      'Número de unidades' => '1',
+      'Tipo de fonte de energia' => 'Não aplicável',
+      'Cor' => 'Colorido',
+      'Cor correspondente' => 'Colorido',
+      'Garantia do fabricante' => '1 ano com o fornecedor',
+      'Peso do produto' => '260 g',
+      'Número do modelo' => '122xl 122 CL',
+      'Dimensões do produto' => '19 x 12 x 8 cm; 260 g',
+    ),
+    'info_extra_produto' => 
+    array (
+      'Dimensões do pacote' => '19 x 12 x 8 centímetros',
+      'ASIN' => 'B0C9RB28X9',
+      'Disponível para compra desde' => '29 junho 2023',
+      'Ranking dos mais vendidos' => 'Nº 91.314 em Computadores e Informática (Conheça o Top 100 na categoria Computadores e Informática)   Nº 1.583 em Cartuchos de Tinta para Impressora Jato de Tinta',
+    ),
+    'imagem_produto' => 'https://m.media-amazon.com/images/I/71h2lbHmjbL.__AC_SX300_SY300_QL70_ML2_.jpg',
+  ),
+  7898506462865 => 
+  array (
+    'info_produto' => 
+    array (
+      'Fabricante' => 'Multilaser',
+      'Certificação' => 'Não aplicável, Não aplicável',
+      'Altura do produto' => '15 centímetros',
+      'Largura do produto' => '15 centímetros',
+      'Tamanho de tela vertical' => '14 Polegadas',
+      'Fonte de alimentação' => 'Não aplicável',
+      'Número de unidades' => '1',
+      'Peso do produto' => '500 Gramas',
+      'Dimensões do produto' => '15 x 15 x 15 cm; 500 g',
+      'Número do modelo' => 'BO207',
+      'Descontinuado pelo fabricante' => 'Não',
+      'Funciona a bateria ou pilha?' => 'Não',
+      'EAN' => '7898506462865',
+      'Tamanho máx. de dispositivo compatível' => '14 Polegadas',
+      'Características especiais' => 'Universal',
+      'Estampa' => 'Lisa',
+      'Tema' => 'Modern',
+      'Modelos de telefone compatíveis' => 'Laptop',
+      'Dimensões do item C x L x A' => '15 x 15 x 15 centímetros',
+      'Nível de resistência à água' => 'Não resistente à água',
+      'Faixa etária (descrição)' => 'Adulto',
+    ),
+  ),
+  7898555215375 => 
+  array (
+    'nome_produto' => 'CAPA SLEEVE P/NB 15" SEATTLE SL-15 PRETO C3T, C3TECH, Mochilas, capas e maletas para notebook',
+    'info_produto' => 
+    array (
+      'Marca' => 'C3TECH',
+      'Fabricante' => 'C3Tech',
+      'Série' => 'SL-15BK',
+      'Certificação' => 'Não aplicável',
+      'Cor' => 'Preta',
+      'Formato' => 'Sacola',
+      'Altura do produto' => '2 centímetros',
+      'Largura do produto' => '28,5 centímetros',
+      'Fonte de alimentação' => 'Não aplicável',
+      'Número de unidades' => '1',
+      'Material' => 'Neoprene',
+      'Peso do produto' => '155 g',
+      'Dimensões do produto' => '41,3 x 28,5 x 2 cm; 155 g',
+      'Número do modelo' => 'SL-15BK',
+      'Funciona a bateria ou pilha?' => 'Não',
+      'EAN' => '7898555215375',
+    ),
+    'info_extra_produto' => 
+    array (
+      'Dimensões do pacote' => '42.8 x 29.4 x 1.8 centímetros',
+      'ASIN' => 'B07W3RLKD5',
+      'Disponível para compra desde' => '1 agosto 2019',
+      'Avaliações de clientes' => '4,2             4,2 de 5 estrelas                                    38 avaliações de clientes                                             var dpAcrHasRegisteredArcLinkClickAction;                    P.when(\'A\', \'ready\').execute(function(A) {                        if (dpAcrHasRegisteredArcLinkClickAction !== true) {                            dpAcrHasRegisteredArcLinkClickAction = true;                            A.declarative(                                \'acrLink-click-metrics\', \'click\',                                { "allowLinkDefault": true },                                function (event) {                                    if (window.ue) {                                        ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);                                    }                                }                            );                        }                    });                                             P.when(\'A\', \'cf\').execute(function(A) {                A.declarative(\'acrStarsLink-click-metrics\', \'click\', { "allowLinkDefault" : true },  function(event){                    if(window.ue) {                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);                    }                });            });                          4,2 de 5 estrelas',
+      'Ranking dos mais vendidos' => 'Nº 20.523 em Computadores e Informática (Conheça o Top 100 na categoria Computadores e Informática)   Nº 1.551 em Capas, Bolsas e Estojos para Tablets',
+    ),
+    'imagem_produto' => 'https://m.media-amazon.com/images/I/51z0O24LXNL.__AC_SX300_SY300_QL70_ML2_.jpg',
+  ),
+  7898506463978 => 
+  array (
+    'nome_produto' => 'Case Hd Multilaser Azul Sata 2.5 - GA117',
+    'info_produto' => 
+    array (
+      'Marca' => 'Multilaser',
+      'Fabricante' => 'Multilaser',
+      'Cor' => 'blue',
+      'Formato' => 'Estojo',
+      'Altura do produto' => '13 centímetros',
+      'Largura do produto' => '17,5 centímetros',
+      'Número de unidades' => '1',
+      'Peso do produto' => '0,2 g',
+      'Dimensões do produto' => '4 x 17,5 x 13 cm; 0,2 g',
+      'Número do modelo' => 'GA117',
+      'Descontinuado pelo fabricante' => 'Não',
+      'Funciona a bateria ou pilha?' => 'Não',
+      'EAN' => '7898506463978',
+    ),
+    'info_extra_produto' => 
+    array (
+      'Dimensões do pacote' => '14.8 x 9.2 x 4 centímetros',
+      'ASIN' => 'B0752J6562',
+      'Disponível para compra desde' => '1 julho 2017',
+      'Avaliações de clientes' => '4,5             4,5 de 5 estrelas                                    3 avaliações de clientes                                             var dpAcrHasRegisteredArcLinkClickAction;                    P.when(\'A\', \'ready\').execute(function(A) {                        if (dpAcrHasRegisteredArcLinkClickAction !== true) {                            dpAcrHasRegisteredArcLinkClickAction = true;                            A.declarative(                                \'acrLink-click-metrics\', \'click\',                                { "allowLinkDefault": true },                                function (event) {                                    if (window.ue) {                                        ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);                                    }                                }                            );                        }                    });                                             P.when(\'A\', \'cf\').execute(function(A) {                A.declarative(\'acrStarsLink-click-metrics\', \'click\', { "allowLinkDefault" : true },  function(event){                    if(window.ue) {                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);                    }                });            });                          4,5 de 5 estrelas',
+      'Ranking dos mais vendidos' => 'Nº 104.943 em Computadores e Informática (Conheça o Top 100 na categoria Computadores e Informática)   Nº 13.719 em Capas, Bolsas e Estojos para Tablets',
+    ),
+    'imagem_produto' => 'https://m.media-amazon.com/images/I/81RMGUQ8VXL.__AC_SY300_SX300_QL70_ML2_.jpg',
+  ),
+  7898587272681 => 
+  array (
+    'info_produto' => 
+    array (
+      'Outros recursos de exibição' => 'Wireless',
+      'Componentes inclusos' => '1 case para laptop',
+      'Número de unidades' => '1',
+      'Fonte de alimentação' => 'Não aplicável',
+      'Peso do produto' => '260 g',
+      'Dimensões do produto' => '39 x 29,5 x 1 cm; 260 g',
+      'Funciona a bateria ou pilha?' => 'Não',
+      'Tamanho máx. de dispositivo compatível' => '15,6 Polegadas',
+      'Características especiais' => 'Material Neoprene e Proteção Isotérmica',
+      'Estampa' => 'Lisa',
+      'Tema' => 'Modern',
+      'Modelos de telefone compatíveis' => 'Laptop',
+      'Dimensões do item C x L x A' => '39 x 29,5 x 1 centímetros',
+      'Faixa etária (descrição)' => 'Adulto',
+    ),
+  ),
+  7899838801803 => 
+  array (
+    'nome_produto' => 'Case Para Hd Ssd 2,5 Pol. Multilaser Preto- GA138',
+    'info_produto' => 
+    array (
+      'Marca' => 'Multilaser',
+      'Fabricante' => 'Multilaser',
+      'Certificação' => 'Não aplicável',
+      'Cor' => 'Preto',
+      'Formato' => '25 pin',
+      'Altura do produto' => '9,5 centímetros',
+      'Largura do produto' => '4 centímetros',
+      'Tecnologia de conexão' => 'SATA',
+      'Etiqueta Nacional de Eficiência Energética (ENCE)' => '100%',
+      'Fonte de alimentação' => 'DC',
+      'Número de unidades' => '1',
+      'Peso do produto' => '0,2 g',
+      'Dimensões do produto' => '14,5 x 4 x 9,5 cm; 0,2 g',
+      'Número do modelo' => 'GA138',
+      'Descontinuado pelo fabricante' => 'Não',
+      'Funciona a bateria ou pilha?' => 'Não',
+      'EAN' => '7899838801803',
+    ),
+    'info_extra_produto' => 
+    array (
+      'Dimensões do pacote' => '14.6 x 9 x 4 centímetros',
+      'ASIN' => 'B075DVX1MG',
+      'Disponível para compra desde' => '1 julho 2017',
+      'Avaliações de clientes' => '3,7             3,7 de 5 estrelas                                    3 avaliações de clientes                                             var dpAcrHasRegisteredArcLinkClickAction;                    P.when(\'A\', \'ready\').execute(function(A) {                        if (dpAcrHasRegisteredArcLinkClickAction !== true) {                            dpAcrHasRegisteredArcLinkClickAction = true;                            A.declarative(                                \'acrLink-click-metrics\', \'click\',                                { "allowLinkDefault": true },                                function (event) {                                    if (window.ue) {                                        ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);                                    }                                }                            );                        }                    });                                             P.when(\'A\', \'cf\').execute(function(A) {                A.declarative(\'acrStarsLink-click-metrics\', \'click\', { "allowLinkDefault" : true },  function(event){                    if(window.ue) {                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);                    }                });            });                          3,7 de 5 estrelas',
+      'Ranking dos mais vendidos' => 'Nº 111.509 em Computadores e Informática (Conheça o Top 100 na categoria Computadores e Informática)   Nº 873 em Bolsas e Estojos para HDs',
+    ),
+    'imagem_produto' => 'https://m.media-amazon.com/images/I/41dd2grhXaL.__AC_SX300_SY300_QL70_ML2_.jpg',
+  ),
+  7898554601872 => 
+  array (
+    'nome_produto' => 'Case para HD 2.5 Externo, Fortrek, Preto',
+    'info_produto' => 
+    array (
+      'Marca' => 'Fortrek',
+      'Fabricante' => 'Fortrek',
+      'Modelo' => '52573',
+      'Nome do modelo' => 'HDC-251',
+      'Certificação' => 'Não aplicável',
+      'Número da peça' => 'HDC-251',
+      'Tipo Do Produto' => 'Computadores pessoais',
+      'Aparelhos compatíveis' => 'Fones de ouvido',
+      'Características especiais' => 'Compact',
+      'Peças para montagem' => 'Manual do usuário, Cabo 2 x USB para Mini USB, Capa protetora, Case Slim para disco rígido HDC-253',
+      'Número de unidades' => '1',
+      'Tipo de fonte de energia' => 'Não aplicável',
+      'Funciona com baterias' => 'Não',
+      'Tecnologia de conexão' => 'SATA',
+      'Tipo de material' => 'Liga de alumínio',
+      'Tipo de produto' => 'Capa',
+      'Cor' => 'Preto',
+      'Cor correspondente' => 'Preto',
+      'Conexões' => 'SATA ND',
+      'Garantia do fabricante' => '06 meses',
+      'Peso do produto' => '350 g',
+      'Número do modelo' => '52573',
+      'Dimensões do produto' => '13 x 4 x 18 cm; 350 g',
+    ),
+    'info_extra_produto' => 
+    array (
+      'Dimensões do pacote' => '17.8 x 13.8 x 4.4 centímetros',
+      'ASIN' => 'B0752KQ5PL',
+      'Disponível para compra desde' => '1 julho 2017',
+      'Avaliações de clientes' => '4,2             4,2 de 5 estrelas                                    53 avaliações de clientes                                             var dpAcrHasRegisteredArcLinkClickAction;                    P.when(\'A\', \'ready\').execute(function(A) {                        if (dpAcrHasRegisteredArcLinkClickAction !== true) {                            dpAcrHasRegisteredArcLinkClickAction = true;                            A.declarative(                                \'acrLink-click-metrics\', \'click\',                                { "allowLinkDefault": true },                                function (event) {                                    if (window.ue) {                                        ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);                                    }                                }                            );                        }                    });                                             P.when(\'A\', \'cf\').execute(function(A) {                A.declarative(\'acrStarsLink-click-metrics\', \'click\', { "allowLinkDefault" : true },  function(event){                    if(window.ue) {                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);                    }                });            });                          4,2 de 5 estrelas',
+      'Ranking dos mais vendidos' => 'Nº 36.693 em Computadores e Informática (Conheça o Top 100 na categoria Computadores e Informática)   Nº 221 em HD Externo   Nº 28.353 em Acessórios para Computador',
+      'Descontinuado pelo fabricante' => 'Não',
+    ),
+    'imagem_produto' => 'https://m.media-amazon.com/images/I/61TTHYGpkYL.__AC_SX300_SY300_QL70_ML2_.jpg',
+  ),
+);

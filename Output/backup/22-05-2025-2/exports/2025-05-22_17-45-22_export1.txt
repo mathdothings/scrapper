@@ -1,0 +1,17 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7892110128391;Game FIFA Soccer 12 - PS3 - Warner Bros Games;https://m.media-amazon.com/images/I/71y49hfWRCL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7892110198059;Jogo FIFA 15 - Xbox One;https://m.media-amazon.com/images/I/710vtrHWdeL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898555210585;Gaveta para HD externo 2.5", USB 2.0, C3Tech - CH-200GY, 413060060202, Cinza;https://m.media-amazon.com/images/I/61GF8YBr32L.__AC_SX300_SY300_QL70_ML2_.jpg;15.8;11.4;5.4;centímetros;120;g;
+7898555210578;C3TECH CH-200 Gaveta HD USB 2.0, Vermelho;https://m.media-amazon.com/images/I/512jmaPWi5L.__AC_SX300_SY300_QL70_ML2_.jpg;15.6;10.8;4.6;centímetros;120;g;
+7898907620185;C3Tech Gaveta para HD CH-210BK Preto Externo 2,5" USB2.0 Compativel com SAT 2.5" suporta até 3TB Tool Less;https://m.media-amazon.com/images/I/31H78NIadjL.__AC_SX300_SY300_QL70_ML2_.jpg;15.5;10.6;3.7;centímetros;45;g;
+7898555210547;Gaveta para HD USB 3.0 CH-300BK, C3TECH;https://m.media-amazon.com/images/I/7121zdGEZJL.__AC_SX300_SY300_QL70_ML2_.jpg;16;11.2;5.6;centímetros;120;g;
+7898907620215;C3Tech Gaveta para HD Externo CH-310BK Preto 2,5" USB3.0 suporta até 3TB abertura e instalçação fácil por encaixe comaptivel com padrão USB 3.0;https://m.media-amazon.com/images/I/51lvgGJAAoL.__AC_SX300_SY300_QL70_ML2_.jpg;16.1;11.4;3.8;centímetros;45;g;
+7898927888824;C3Tech Gaveta para HD CH-350CB Prata Externo 2,5" USB3.0 compativel com SATA comprimento do cabo 35Cm suporta até 6 TB;https://m.media-amazon.com/images/I/41uByXv5qUL.__AC_SX300_SY300_QL70_ML2_.jpg;15.3;11.9;3.8;centímetros;55;g;
+7898907620116;;;7.8;1.25;1.1;cm;55;gramas;
+7898378255305;Gaveta de Dinheiro Bematech GD-36;https://m.media-amazon.com/images/I/411Pj7q5srL.__AC_SX300_SY300_QL70_ML2_.jpg;47;46.8;15.8;centímetros;7301;gramas;
+7898426283076;Papel Fotografico Inkjet A4 Glossy 180G Pct Com 50-23888;https://m.media-amazon.com/images/I/71Fom2uocaL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898119104336;Grampeador para 20 folhas MP-301 Masterprint;https://m.media-amazon.com/images/I/518GlNMS08L.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898119104367;GRAMPEADOR DE MESA METAL MP 400 - MASTERPRINT;https://m.media-amazon.com/images/I/41+BHl5VDKL._AC_SY300_SX300_.jpg;;;;;
+7898587272919;Grampeador para 20 folhas - OEX Office GR10 - Preto com laranja, 48.7928;https://m.media-amazon.com/images/I/41SzCSHFMML.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7899838886534;Grampeador One Touch 30 Folhas 26/6 24/6 Keep - EI006;https://m.media-amazon.com/images/I/41sjJKS-53L.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898119104312;Grampos Galvanizados 26/6;https://m.media-amazon.com/images/I/71vHj6AzyLL.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;

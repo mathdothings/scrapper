@@ -1,0 +1,20 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7899744088909;Carregador de Parede Rápido Duplo 20W USB A + C, Preto;https://m.media-amazon.com/images/I/51EXfdtvFsL.__AC_SX300_SY300_QL70_ML2_.jpg;18.2;8.2;3.4;centímetros;80;g;
+7899744088879;;;;;80;g;
+7899838807003;Carregador de Parede USB Sortidos, Multilaser;https://m.media-amazon.com/images/I/417mjCC--TL.__AC_SX300_SY300_QL70_ML2_.jpg;13.6;4;2.6;centímetros;0.04;g;
+7899838818443;Carregador de Parede USB Preto Smartogo - CB104;https://m.media-amazon.com/images/I/41WchIJsiIL.__AC_SX300_SY300_QL70_ML2_.jpg;11.1;8.3;3.7;centímetros;200;g;
+7898461665295;Carregador De Parede Padrão Universal, 3 entradas USB, Xtrax, Branco;https://m.media-amazon.com/images/I/61HC7G5gxOL.__AC_SX300_SY300_QL70_ML2_.jpg;17;8;4.4;centímetros;155;g;
+7897013578571;Carregador de Pilhas e Baterias USB com 2 Pilhas AA 1500mAh recarregáveis;https://m.media-amazon.com/images/I/61wglcown0L.__AC_SX300_SY300_QL70_ML2_.jpg;11.8;11.2;1;centímetros;;;
+7899838815473;Carregador de Pilhas AA/AAA+ 8 Pilhas Multi - CB093;https://m.media-amazon.com/images/I/51KZaMuvuxL.__AC_SX300_SY300_QL70_ML2_.jpg;18.8;14.6;6.6;centímetros;500;g;
+7898555215979;Carregador AC-USB Universal C3 TECH Branco, Bivolt Automático, com Quick Charge QC3.0, 8.0A, com Cabo USB 1.5Metros, UC-Q630WH;https://m.media-amazon.com/images/I/41rVnsbDmML.__AC_SX300_SY300_QL70_ML2_.jpg;17.2;12.4;5.4;centímetros;193;g;
+7898378708405;ELG, PB200BK, Power Bank Pro 20000mAH, Bateria Portátil Universal, Carga Rápida, Display Indicador, Entradas Micro USB e USB-C, 2 Portas USB-A, Preto;https://m.media-amazon.com/images/I/71vKDr03jgL.__AC_SX300_SY300_QL70_ML2_.jpg;17.6;9.4;3.8;centímetros;410;g;
+7899298656708;Fonte Carregador USB EC 1 Fast 12W Preto Intelbras;https://m.media-amazon.com/images/I/51doO1uu9BL.__AC_SX300_SY300_QL70_ML2_.jpg;10;6;3.1;centímetros;80;g;
+7899298656739;Fonte Carregador USB EC 10 Power 20W Preto Intelbras;https://m.media-amazon.com/images/I/71vn3Akk1FL._AC_SY300_SX300_.jpg;10;6;3.1;centímetros;80;g;
+7899298656746;Fonte Carregador USB EC 11 Power 20W Preto Intelbras;https://m.media-amazon.com/images/I/713vu0ER8hL.__AC_SX300_SY300_QL70_ML2_.jpg;10;6;3.1;centímetros;60;g;
+7898555217416;Carregador Usb Coletek, 2 Usb 2,1A / Filtro de Linha 2Tomadas, Bem Ligado, Preto Fl-Usb21Gbk;https://m.media-amazon.com/images/I/6125eP+NNmL._AC_SY300_SX300_.jpg;20.8;11.8;4;centímetros;115;g;
+7896637625593;Carregador Universal Veicular ECV2 Fast Preto Intelbras;https://m.media-amazon.com/images/I/61TyQZ6maCL._AC_SY300_SX300_.jpg;14.4;8.6;3;centímetros;20;g;
+7898615155276;Carregador de Celular Automotivo 2 USB Xcell XC-V7/USB;https://m.media-amazon.com/images/I/5195F-uqakL.__AC_SX300_SY300_QL70_ML2_.jpg;14;7;4;cm;50;g;
+7896637647434;CHAVEIRO PROXIMIDADE INTELBRAS TAG RFID MFARE XID 1000;https://m.media-amazon.com/images/I/41ZIdtymV0L.__AC_SY445_SX342_QL70_ML2_.jpg;;;;;
+7896041917192;Cartao Pimaco Ocasiao 148,5X104,7 + Envelope 10 Un 7090 11753;https://m.media-amazon.com/images/I/51qhqjFUF9L.__AC_SX300_SY300_QL70_ML2_.jpg;;;;;
+7898119100369;Cartucho 21/27/56 Preto 19ml Masterprint;https://m.media-amazon.com/images/I/71r7+8Ka+FL._AC_SY300_SX300_.jpg;17.2;9.5;5.3;centímetros;260;g;
+7898119100772;;;;;;;
