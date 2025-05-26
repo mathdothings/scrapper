@@ -4,10 +4,18 @@ Para realizar o scrapping, primeiro devemos utilizar a class **Scrapper** para e
 
 <hr />
 
-### Exemplo:
+
+Para realizar a operação em um servidor local, na porta 8000, acesse o diretório raíz desse projeto e:
+
+```shell
+php -S localhost:8000 index.php
+```
+
+index.php
 
 ```php
 <?php
+// index.php
 
 set_time_limit(0);
 
