@@ -1,0 +1,26 @@
+<?php
+
+$links = array (
+  7899298610687 => 'https://loja.intelbras.com.br/acionador-cortinas-smart-iac-110/p',
+  7899298623724 => 'https://loja.intelbras.com.br/acionador-portao-basculante-140cm/p',
+  7899298610670 => 'https://loja.intelbras.com.br/acionador-smart-igd-110/p',
+  7899298667865 => 'https://loja.intelbras.com.br/acionador-portao-wifi-mcp1001-branco-intelbras/p',
+  7896637643481 => 'https://loja.intelbras.com.br/adaptador-pinagem-adp10/p',
+  7896637682268 => 'https://loja.intelbras.com.br/adaptador-duas-tomadas-eac1002/p',
+  7899298651390 => 'https://loja.intelbras.com.br/adaptador-2-tomadas-2-usb-eac202-preto/p',
+  7899298651383 => 'https://loja.intelbras.com.br/adaptador-2-tomadas-2-usb-eac202-branco/p',
+  7896637677660 => 'https://loja.intelbras.com.br/adaptador-action-1200/p',
+  7896637677554 => 'https://loja.intelbras.com.br/adaptador-iwa-3001/p',
+  7899298664086 => 'https://loja.intelbras.com.br/adaptador-usb-c-usb-a-adi-10/p',
+  7899298623458 => 'https://loja.intelbras.com.br/alto-falante-izy-speak-iss-102-a/p',
+  7899298642497 => 'https://loja.intelbras.com.br/antena-interna-tv-ai-1015/p',
+  7896637670135 => 'https://loja.intelbras.com.br/antena-interna-ai-2021/p',
+  7896637679046 => 'https://loja.intelbras.com.br/antena-interna-ai-2031/p',
+  7896637640787 => 'https://loja.intelbras.com.br/antena-tv-interna-ai-2025/p',
+  7899298638674 => 'https://loja.intelbras.com.br/kit-arandela-solar-asi-220-amarela-2-unidades/p',
+  7899298638681 => 'https://loja.intelbras.com.br/arandela-solar-integrada-asi-220-luz-branca/p',
+  7899298638667 => 'https://loja.intelbras.com.br/arandela-solar-integrada-asi-500-dual-color/p',
+  7899298652311 => 'https://loja.intelbras.com.br/luminaria-solar-multifuncional-lsm-950/p',
+  7899298609032 => 'https://loja.intelbras.com.br/automatizador-dr-400-fast/p',
+  7896637640008 => 'https://loja.intelbras.com.br/automatizador-de-portao-dr-400-220-v/p',
+);

@@ -45,7 +45,10 @@ $filer->writeFile("Output/links/$filename", $urls);
 
 // $product = $scrapper->findProductContentByBarcodeAndURL('7899298680475', $url);
 
-$end = $timer->elapsed();
+$elapsed = $timer->elapsed();
+
 echo '<br />';
+echo "# ✅ Duração: " . number_format($elapsed, 2) . " segundos!";
 echo '<br />';
-echo 'Duração: ' . $end . PHP_EOL;
+echo "# ✅ Duração: " . number_format($elapsed / 60, 2) . " minutos!";
+echo '<br />';
