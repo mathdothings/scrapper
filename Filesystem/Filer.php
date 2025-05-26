@@ -54,7 +54,7 @@ class Filer
     /**
      * Writes content to a file
      * 
-     * @param string $filePath Full path to the file including filename
+     * @param string $filepath Full path to the file including filename
      * @param mixed $content Data to write to the file
      * @return bool True on success, false on failure
      * @throws RuntimeException If directory isn't writable
