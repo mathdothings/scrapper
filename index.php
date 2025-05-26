@@ -17,6 +17,7 @@ use App\System\Filer;
 negateFaviconRequest();
 buildBody();
 
+
 $timer = new Timer;
 $filer = new Filer;
 $request = new Request;
@@ -24,13 +25,27 @@ $scrapper = new IntelbrasScrapper;
 
 $start = $timer->start();
 
-$url = $scrapper->findProductURLByBarcode('7899298680475');
-$product = $scrapper->findProductContentByBarcodeAndURL('7899298680475', $url);
-echo '<pre>';
-print_r($product);
-echo '<pre />';
+$reader = new Reader('intelbras_produtos.csv', ';');
+$reader->read();
+$barcodes = $reader->getColumn('PROD_COD_BAR');
+
+$slice = array_slice($barcodes, 0, 100);
+
+$urls = [];
+foreach ($slice as $barcode) {
+    $url = $scrapper->findProductURLByBarcode($barcode);
+    if ($url !== '') {
+        $urls[] = $url;
+    };
+}
+
+$filename = new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
+    ->format('Y-m-d_H-i-s') . '_link.php';
+$filer->writeFile("Output/links/$filename", $urls);
+
+// $product = $scrapper->findProductContentByBarcodeAndURL('7899298680475', $url);
 
 $end = $timer->elapsed();
 echo '<br />';
 echo '<br />';
-echo 'Elapsed time: ' . $end . PHP_EOL;
+echo 'Duração: ' . $end . PHP_EOL;
