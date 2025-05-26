@@ -28,15 +28,15 @@ require_once __DIR__ . '/Extractor/Extractor.php';
 require_once __DIR__ . '/Scrapper/AmazonBrazilScrapper.php';
 require_once __DIR__ . '/Toolkit/Timer.php';
 
+use App\Request\Request;
+use App\System\Filer;
+use App\Scrapping\AmazonBrazilScrapper;
+use App\Processing\Extractor;
 use App\Toolkit\Timer;
 
 negateFaviconRequest();
 buildBody();
 
-$request = new Request;
-$filesystem = new Filer;
-$scrapper = new AmazonBrazilScrapper;
-$processor = new Extractor;
 $timer = new Timer;
 
 $startTime = $timer->start();
