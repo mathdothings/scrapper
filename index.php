@@ -29,13 +29,13 @@ $reader = new Reader('intelbras_produtos.csv', ';');
 $reader->read();
 $barcodes = $reader->getColumn('PROD_COD_BAR');
 
-$slice = array_slice($barcodes, 0, 100);
+$slice = array_slice($barcodes, 101, 200);
 
 $urls = [];
 foreach ($slice as $barcode) {
     $url = $scrapper->findProductURLByBarcode($barcode);
     if ($url !== '') {
-        $urls[] = $url;
+        $urls[$barcode] = $url;
     };
 }
 
