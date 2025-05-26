@@ -105,4 +105,12 @@ function exportContent()
 getURLs();
 findContent();
 exportContent();
+
+$elapsed = $timer->elapsed();
+
+echo '<br />';
+echo "# ✅ Duração: " . number_format($elapsed, 2) . " segundos!";
+echo '<br />';
+echo "# ✅ Duração: " . number_format($elapsed / 60, 2) . " minutos!";
+echo '<br />';
 ```
