@@ -1,7 +1,11 @@
 <?php
 
+set_time_limit(0);
+
 require_once __DIR__ . '/Utils/negate_favicon.php';
 require_once __DIR__ . '/Utils/build_body.php';
+require_once __DIR__ . '/Utils/array_split.php';
+require_once __DIR__ . '/Utils/count_links_in_directory.php';
 require_once __DIR__ . '/Toolkit/Timer.php';
 require_once __DIR__ . '/CSV/Reader.php';
 require_once __DIR__ . '/Filesystem/Filer.php';
@@ -25,23 +29,7 @@ $scrapper = new IntelbrasScrapper;
 
 $start = $timer->start();
 
-$reader = new Reader('intelbras_produtos.csv', ';');
-$reader->read();
-$barcodes = $reader->getColumn('PROD_COD_BAR');
-
-$slice = array_slice($barcodes, 101, 200);
-
-$urls = [];
-foreach ($slice as $barcode) {
-    $url = $scrapper->findProductURLByBarcode($barcode);
-    if ($url !== '') {
-        $urls[$barcode] = $url;
-    };
-}
-
-$filename = new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
-    ->format('Y-m-d_H-i-s') . '_link.php';
-$filer->writeFile("Output/links/$filename", $urls);
+countLinksInDirectory('/Output/links');
 
 // $product = $scrapper->findProductContentByBarcodeAndURL('7899298680475', $url);
 
