@@ -3,6 +3,7 @@
 set_time_limit(0);
 
 require_once __DIR__ . '/Utils/negate_favicon.php';
+require_once __DIR__ . '/Utils/build_head.php';
 require_once __DIR__ . '/Utils/build_body.php';
 require_once __DIR__ . '/Utils/array_split.php';
 require_once __DIR__ . '/Utils/count_links_in_directory.php';
@@ -22,8 +23,8 @@ use App\System\Filer;
 use App\Processing\IntelbrasExtractor;
 
 negateFaviconRequest();
-buildBody();
-
+build_head();
+build_body();
 
 $timer = new Timer;
 $filer = new Filer;
@@ -34,14 +35,6 @@ $extractor = new IntelbrasExtractor;
 $start = $timer->start();
 
 $filepaths = $filer->readFiles('/Output/items');
-
-$i = 1;
-foreach ($filepaths as $filepath) {
-    $filename = 'Output/exports/' . new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
-        ->format('Y-m-d_H-i-s') . "_export$i.csv";
-    $extractor->export($filepath, $filename);
-    $i++;
-}
 
 $elapsed = $timer->elapsed();
 

@@ -1,0 +1,151 @@
+codigo_de_barras;nome_produto;imagem;comprimento;largura;altura;dimensoes_unidade;peso;peso_unidade
+7896637679312;Bloco de Iluminação de Emergência Intelbras BLA 1200;https://intelbras.vtexassets.com/arquivos/ids/156002-800-auto?v=637063914609870000&width=800&height=auto&aspect=true;26;25.7;7;cm;1.261;Kg
+7899298643098;Bloco de Iluminação Autonômo BLA 1202 Intelbras;;;;;;;
+7896637679329;Bloco de Iluminação Autônomo Intelbras BLA 2200;https://intelbras.vtexassets.com/arquivos/ids/155935-800-auto?v=637063303635070000&width=800&height=auto&aspect=true;26;25.7;7;cm;1.261;Kg
+7899298643104;Bloco de Iluminação Autonômo BLA 2202 Intelbras;;;;;;;
+7899298632016;Bloco de Iluminação Autônomo Intelbras BLA 400;https://intelbras.vtexassets.com/arquivos/ids/164837-800-auto?v=637878872227870000&width=800&height=auto&aspect=true;17;16.5;4.2;cm;0.313;kg
+7899298632023;Bloco de Iluminação Autônomo Intelbras BLA 600;https://intelbras.vtexassets.com/arquivos/ids/164830-800-auto?v=637878868121230000&width=800&height=auto&aspect=true;17;16.5;4.2;cm;0.313;kg
+7899298677185;Bomba de Agua Solar Centrifuga P3-3,5M3/H-95M-72V-750W;;;;;;;
+7899298677086;Bomba de Agua Solar Centrifuga P4-5,2M3/H-67M-72V-750W;;;;;;;
+7899298633143;Botoeira Sem Fio Intelbras BT 100 Branca;https://intelbras.vtexassets.com/arquivos/ids/170089-800-auto?v=638376421897430000&width=800&height=auto&aspect=true;9.8;5.6;4.9;cm;0.55;kg
+7899298633136;Botoeira Sem Fio Intelbras BT 100 Preta;;;;;;;
+7896637687355;Cabo CFTV 4MM + 2PX26 AWG 100M FAST CAM FC80CBR;;;;;;;
+7896637601924;Cabo Engate Rápido Bateria Externa Intelbras CBO 601;https://intelbras.vtexassets.com/arquivos/ids/157963-800-auto?v=637225716667300000&width=800&height=auto&aspect=true;150;20;1.6;cm;in;0.242
+7896637601252;Cabo Engate Rápido Bateria Externa Intelbras CBO 603;https://intelbras.vtexassets.com/arquivos/ids/157977-800-auto?v=637226477659600000&width=800&height=auto&aspect=true;150;1.6;cm;0.278;kg;
+7899298633655;Cabo USB - Micro USB 1,2m PVC Preto Intelbras EUAB 12PP;https://intelbras.vtexassets.com/arquivos/ids/168366-800-auto?v=638181983341230000&width=800&height=auto&aspect=true;120;3.4;3.4;cm;0.027;kg
+7899298633747;Cabo USB - Lightning 1,2m PVC Preto Intelbras EUAL 12PP;https://intelbras.vtexassets.com/arquivos/ids/165531-800-auto?v=637947211391600000&width=800&height=auto&aspect=true;120;3.4;3.4;cm;0.024;kg
+7899298633716;Cabo USB - Lightning 1,5m Nylon Preto Intelbras EUAL 15NP;;;;;;;
+7899298633686;Cabo USB - Micro USB 1,5m Nylon Preto Intelbras EUAB 15NP;;;;;;;
+7896637647557;Combo Telefone sem Fio Intelbras + Dois Ramais Adicionais TS 5123;https://intelbras.vtexassets.com/arquivos/ids/168025-800-auto?v=638162230843170000&width=800&height=auto&aspect=true;16;10.5;10;cm;0.317;Kg
+7896637647564;Kit Telefone sem Fio + Ramal  Intelbras TS 5122;https://intelbras.vtexassets.com/arquivos/ids/168022-800-auto?v=638162224900000000&width=800&height=auto&aspect=true;16;10.5;10;cm;0.317;Kg
+7896637647571;Ramal sem Fio TS 5121 Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/165172-800-auto?v=637915217704730000&width=800&height=auto&aspect=true;15.5;9.8;8.5;cm;0.261;Kg
+7896637613255;Telefone Gôngola com Fio Intelbras TC 20 Cinza;https://intelbras.vtexassets.com/arquivos/ids/167986-800-auto?v=638162125578230000&width=800&height=auto&aspect=true;21.5;7;5.4;cm;0.24;Kg
+7896637613262;Telefone Gôndola com Fio Intelbras TC 20 Preto;https://intelbras.vtexassets.com/arquivos/ids/168006-800-auto?v=638162160432570000&width=800&height=auto&aspect=true;21.5;7;5.4;cm;0.24;Kg
+7896637616485;Telefone com Fio Intelbras TC 50 Branco;https://intelbras.vtexassets.com/arquivos/ids/156118-800-auto?v=637064062044030000&width=800&height=auto&aspect=true;20;14.5;6.5;cm;0.47;Kg
+7896637616492;Telefone com Fio Intelbras TC 50 Preto;https://intelbras.vtexassets.com/arquivos/ids/156120-800-auto?v=637064064456630000&width=800&height=auto&aspect=true;20;14.5;6.5;cm;0.47;Kg
+7896637611251;Telefone com Fio Tok Fácil Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/156148-800-auto?v=637064093931000000&width=800&height=auto&aspect=true;19.5;17.3;8;cm;0.51;Kg
+7896637684231;Telefone IP Sem Fio TIP 1001D Intelbras;;;;;;;
+7896637621359;Telefone IP V3001 Preto Intelbras;;;;;;;
+7899298615071;Telefone IP V3501 Preto Intelbras;;;;;;;
+7896637674959;Telefone Sem Fio Intelbras com Ramal Externo TIS 5010;https://intelbras.vtexassets.com/arquivos/ids/165159-800-auto?v=637915051062700000&width=800&height=auto&aspect=true;15.9;10.7;5.3;cm;0.567;Kg
+7899298690290;Tomada com Interruptor Inteligente Wi-fi ETS 2001 Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172635-800-auto?v=638629766263670000&width=800&height=auto&aspect=true;12;7.2;4.5;cm;0.162;g
+7899298690313;Tomada com 2 Interruptores Inteligentes Wi-fi ETS 2002 Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172737-800-auto?v=638636601635530000&width=800&height=auto&aspect=true;12;7.2;4.5;cm;0.172;g
+7899298690269;Tomada Dupla Inteligente Wi-Fi ETS 1002 Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172792-800-auto?v=638641011032200000&width=800&height=auto&aspect=true;12;7.2;4.5;cm;0.16;g
+7899298682431;Tomada Inteligente Wi-Fi ETS 1001 Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/171842-800-auto?v=638585484545500000&width=800&height=auto&aspect=true;12;7.2;4.5;cm;0.132;g
+7899298684022;Tomada Inteligente Wi-Fi ETS 1001 Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/171847-800-auto?v=638585485451700000&width=800&height=auto&aspect=true;12;7.2;4.5;cm;0.132;g
+7899298690283;Tomada com Interruptor Inteligente Wi-fi ETS 2001 Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172639-800-auto?v=638629767881300000&width=800&height=auto&aspect=true;12;7.2;4.5;cm;0.162;g
+7899298690306;Tomada com 2 Interruptores Inteligentes Wi-fi ETS 2002 Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172732-800-auto?v=638636600737000000&width=800&height=auto&aspect=true;12;7.2;4.5;cm;0.172;g
+7899298669265;Videoporteiro Residencial com Monofone IVR 4 Intelbras;https://intelbras.vtexassets.com/arquivos/ids/170960-800-auto?v=638491455106470000&width=800&height=auto&aspect=true;21;19.1;6.1;cm;0.626;kg
+7899298668206;Videoporteiro Residencial com Monofone IVR 7 Intelbras;https://intelbras.vtexassets.com/arquivos/ids/170962-800-auto?v=638491459630670000&width=800&height=auto&aspect=true;24.4;19.1;6.1;cm;0.753;kg
+7899298637875;Videoporteiro Allo wT7 Lite Multi HD com app Allo Plus Intelbras;;;;;;;
+7896637659369;Videoporteiro com Visão Noturna e Display 4” IV 4010 HS Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167658-800-auto?v=638143136977330000&width=800&height=auto&aspect=true;20.2;18.8;16;10.7;6;5
+7896637644563;Módulo Interno Videoporteiro Intelbras IV 7000 HS IN;https://intelbras.vtexassets.com/arquivos/ids/167701-800-auto?v=638143887435000000&width=800&height=auto&aspect=true;20.2;18.8;6;cm;0.501;Kg
+7896637625739;Videoporteiro Intelbras IV 7000 HF IN;https://intelbras.vtexassets.com/arquivos/ids/167682-800-auto?v=638143243496070000&width=800&height=auto&aspect=true;33.5;23.9;11.2;cm;0.476;Kg
+7896637669931;Videoporteiro Intelbras IV 7010;https://intelbras.vtexassets.com/arquivos/ids/167880-800-auto?v=638158663579870000&width=800&height=auto&aspect=true;28;16.7;15.8;11.8;8;6.8
+7896637668590;Videoporteiro Intelbras IV 7010 HF;https://intelbras.vtexassets.com/arquivos/ids/167646-800-auto?v=638143107290500000&width=800&height=auto&aspect=true;24;11.2;3.5;cm;0.476;Kg
+7896637668583;Videoporteiro Intelbras IV 7010 HS Branco;https://intelbras.vtexassets.com/arquivos/ids/167637-800-auto?v=638143102429470000&width=800&height=auto&aspect=true;26.2;18;6.1;cm;0.934;kg
+7896637669924;Videoporteiro Intelbras IV 7010 HS;;;;;;;
+7896637674263;Vídeo Porteiro IVR 1010 Intelbras com Alta qualidade de imagem;https://intelbras.vtexassets.com/arquivos/ids/167720-800-auto?v=638143906254300000&width=800&height=auto&aspect=true;20.7;19.1;6.1;cm;0.71;Kg
+7896637618397;Vídeo Porteiro Módulo Interno e Externo IVR 1070 HS Intelbras;;;;;;;
+7896637643122;Vídeo Porteiro Inteligente Izy Smart IVW 3000+ Intelbras;https://intelbras.vtexassets.com/arquivos/ids/169439-800-auto?v=638285697042700000&width=800&height=auto&aspect=true;11.45;4.47;2.7;cm;0.235;kg
+7896637687485;VÍdeo Porteiro Multi HD Wi-Fi Intelbras Allo wT7;https://intelbras.vtexassets.com/arquivos/ids/167671-800-auto?v=638143229870270000&width=800&height=auto&aspect=true;23;17.8;13.5;11.4;5.7;1.9
+7896637647649;Módulo Externo para Videoporteiro Intelbras IV 7000 ME;https://intelbras.vtexassets.com/arquivos/ids/163500-800-auto?v=637789887524230000&width=800&height=auto&aspect=true;16;10.7;5;cm;0.33;Kg
+7896637678995;Módulo Interno para Videoporteiro IVR 1010 Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167714-800-auto?v=638143903107400000&width=800&height=auto&aspect=true;20.7;19.1;6.1;cm;0.564;Kg
+7899298627371;Vídeoporteiro Residencial com Monofone IVR 7 ID Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167889-800-auto?v=638158669186570000&width=800&height=auto&aspect=true;24.4;19.1;16.7;11;6.1;5.3
+7899298692164;Webcam WCI1080P FULL HD 60 FPS Intelbras;https://intelbras.vtexassets.com/arquivos/ids/173502-800-auto?v=638762825729900000&width=800&height=auto&aspect=true;11.5;11.4;6.7;cm;0.142;Kg
+7896637643177;WebCam USB Intelbras CAM-1080p;https://intelbras.vtexassets.com/arquivos/ids/158838-800-auto?v=637381888500070000&width=800&height=auto&aspect=true;11.64;5.71;4.83;cm;0.085;kg
+7899298632993;Webcam CAM HD 720p com Microfone e Clip Universal Intelbras;https://intelbras.vtexassets.com/arquivos/ids/164852-800-auto?v=637880402041570000&width=800&height=auto&aspect=true;7;5.5;4.7;cm;0.12;Kg
+7899298661023;Switch Não Gerenciável 5 portas Fast SF 500 Hi-PoE Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172986-800-auto?v=638653750254500000&width=800&height=auto&aspect=true;13;8.5;2.6;cm;300;g
+7896637677561;Switch Intelbras 8p fast com vlan fixa e anti-surto - SF 800 VLAN ULTRA;;;;;;;
+7896637647137;Switch 8 Portas Fast SF 800 Q+ Preto Intelbras;;;;;;;
+7899298657101;Switch Não Gerenciavel 8 Portas SG 800 Q+ CKD Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167782-800-auto?v=638145886698570000&width=800&height=auto&aspect=true;14;7.5;2.6;cm;;
+7899298628583;Teclado com Fio TCI 10 Intelbras;https://intelbras.vtexassets.com/arquivos/ids/168633-800-auto?v=638192399927330000&width=800&height=auto&aspect=true;42;12.5;2.2;cm;0.45;kg
+7899298631750;Kit Mouse e Teclado com Fio CCI 20 Intelbras;;;;;;;
+7899298622659;Kit Teclado e Mouse sem Fio CSI50 Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/163435-800-auto?v=637788805945030000&width=800&height=auto&aspect=true;44.3;13.3;10.7;6.2;3.8;1.4
+7899298615774;Teclado TSI50 Sem Fio Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/163194-800-auto?v=637770045779370000&width=800&height=auto&aspect=true;44.3;13.3;1.4;cm;0.48;kg
+7896637678506;Kit Telefone sem Fio Intelbras + Ramal TS 2512;https://intelbras.vtexassets.com/arquivos/ids/167990-800-auto?v=638162132506930000&width=800&height=auto&aspect=true;15;9.8;8.5;cm;0.46;Kg
+7896637696029;Telefone IP TDMI 400 POE Intelbras;;;;;;;
+7896637601412;Telefone Celular Fixo 4G com Wi-Fi Intelbras CFW 9041;https://intelbras.vtexassets.com/arquivos/ids/158360-800-auto?v=637303471751600000&width=800&height=auto&aspect=true;20;18.5;6.5;cm;0.704;kg
+7896637601405;Telefone Celular Fixo 2G Intelbras CF 4202N;https://intelbras.vtexassets.com/arquivos/ids/162568-800-auto?v=637704401292570000&width=800&height=auto&aspect=true;20;19.5;9;cm;0.705;kg
+7896637673501;Telefone Celular Fixo Intelbras CF 6031;https://intelbras.vtexassets.com/arquivos/ids/168072-800-auto?v=638162944933470000&width=800&height=auto&aspect=true;25;23;17.8;cm;0.68;Kg
+7896637622738;Telefone com Identificador de chamadas TC 60 ID Preto Intelbras;;;;;;;
+7896637637961;Telefone Headset com Microfone Cancelador de Ruídos HSB 50 Preto Intelbras;;;;;;;
+7896637680325;Telefone IP Intelbras TIP 120i;https://intelbras.vtexassets.com/arquivos/ids/158064-800-auto?v=637251621215800000&width=800&height=auto&aspect=true;15;15;14.5;cm;0.782;kg
+7896637683289;Telefone IP Intelbras TIP 125i;https://intelbras.vtexassets.com/arquivos/ids/168221-800-auto?v=638173459031770000&width=800&height=auto&aspect=true;15;15;14.5;cm;0.782;kg
+7896637621366;Telefone IP  V5501 Preto Intelbras;;;;;;;
+7896637609388;Telefone com Fio Intelbras Pleno sem chave Cinza;https://intelbras.vtexassets.com/arquivos/ids/168027-800-auto?v=638162246908430000&width=800&height=auto&aspect=true;18;13.5;8.2;cm;0.375;Kg
+7896637609296;Telefone com Fio Intelbras Pleno sem chave Preto;https://intelbras.vtexassets.com/arquivos/ids/168028-800-auto?v=638162249030030000&width=800&height=auto&aspect=true;18;13.5;8.2;cm;0.375;Kg
+7896637678513;Kit Telefone sem Fio + Dois Ramais Adicionais Intelbras TS 2513;https://intelbras.vtexassets.com/arquivos/ids/168010-800-auto?v=638162171694700000&width=800&height=auto&aspect=true;15;9.8;8.5;cm;0.677;Kg
+7896637680226;Ramal Sem Fio Digital TS 3111 Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/168061-800-auto?v=638162901553930000&width=800&height=auto&aspect=true;16;10.5;10;cm;0.305;Kg
+7896637638340;Ramal sem Fio Digital Intelbras TS 3111 Preto;https://intelbras.vtexassets.com/arquivos/ids/167999-800-auto?v=638162151200070000&width=800&height=auto&aspect=true;15.5;9.8;8.5;cm;0.249;Kg
+7896637678490;Ramal sem fio Intelbras TS 2511;https://intelbras.vtexassets.com/arquivos/ids/167994-800-auto?v=638162142558370000&width=800&height=auto&aspect=true;15;9.8;8.5;4.5;3.7;2.8
+7896637678483;Telefone Sem Fio Digital TS 2510 Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/168480-800-auto?v=638187972982370000&width=800&height=auto&aspect=true;15;8.5;5;4;cm;0.243
+7896637662598;Telefone sem Fio TS 3110 Branco Intelbras;;;;;;;
+7896637638333;Telefone sem Fio Intelbras TS 3110 Preto;;;;;;;
+7896637680233;Combo Telefone sem fio + Ramal Intelbras TS 3112 Branco;https://intelbras.vtexassets.com/arquivos/ids/156194-800-auto?v=637066520316230000&width=800&height=auto&aspect=true;16;10.5;10;cm;0.542;kg
+7896637639262;Telefone sem Fio Digital com Secretária Eletrônica Intelbras TS 3130;https://intelbras.vtexassets.com/arquivos/ids/156199-800-auto?v=637066541370970000&width=800&height=auto&aspect=true;16.2;14.8;9.6;cm;0.36;Kg
+7896637647588;Telefone Sem Fio Digital TS 5120 Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/165148-800-auto?v=637915011137900000&width=800&height=auto&aspect=true;16;10.5;10;cm;0.317;Kg
+7896637670562;Telefone Sem Fio TS 5150 Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/156228-800-auto?v=637066595510200000&width=800&height=auto&aspect=true;16.1;14.8;9.6;cm;0.389;Kg
+7899298603979;Sirene Smart ISI 1001 Intelbras;https://intelbras.vtexassets.com/arquivos/ids/169345-800-auto?v=638285672651100000&width=800&height=auto&aspect=true;8;8;3.5;cm;0.178;kg
+7899298642305;KIT Parabólica Digital Intelbras SAT 800 (Banda KU);;;;;;;
+7899298660910;Smart TV Box FULL HD Intelbras;;;;;;;
+7899298660903;Smart TV Stick Full HD Intelbras;;;;;;;
+7899298661221;Switch Não Gerenciavel 16 PORTAS Intelbras GB S1016G;https://intelbras.vtexassets.com/arquivos/ids/169207-800-auto?v=638279718876970000&width=800&height=auto&aspect=true;28.5;19.8;8;cm;0.49;kg
+7899298680352;Switch Não Gerenciavel 16 portas Gigabit S1116G Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172916-800-auto?v=638651282925930000&width=800&height=auto&aspect=true;44;15.5;4.37;cm;1.86;kg
+7899298680895;Switch Não Gerenciavel 24 Portas Fast S1126F-PA Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172890-800-auto?v=638651175269130000&width=800&height=auto&aspect=true;44;22;4.4;cm;2.36;kg
+7899298685012;Switch Não Gerenciavel 28 portas Gigabit S1128G-PA Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172936-800-auto?v=638651286077900000&width=800&height=auto&aspect=true;44;22;4.4;cm;2.485;kg
+7899298680475;Switch Não Gerenciavel 24 portas Gigabit S1124G Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172777-800-auto?v=638639913410170000&width=800&height=auto&aspect=true;44;15.5;4.37;cm;1.96;Kg
+7896637679404;Switch PoE Reverso Intelbras 8 Portas Fast  1 Porta Gigabit SF 910 PAC;;;;;;;
+7896637675147;Switch 16 Portas Poe SF 1600 Q+;https://intelbras.vtexassets.com/arquivos/ids/157110-800-auto?v=637080602021800000&width=800&height=auto&aspect=true;28.5;11.6;2.8;0.54;;
+7899298637943;Switch Não Gerenciável 16 Portas Fast e 2 Portas SFP SF 1822 HI PoE Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172989-800-auto?v=638653831888200000&width=800&height=auto&aspect=true;44;30;4.4;cm;1.98;kg
+7896637602969;Rádio Comunicador Intelbras RC 4002;;;;;;;
+7896637698917;Radio Comunicador Intelbras RC 4102;;;;;;;
+7896637674942;Ramal Externo Sem Fio TIS 5000 Intelbras;https://intelbras.vtexassets.com/arquivos/ids/163618-800-auto?v=637798421734200000&width=800&height=auto&aspect=true;16;10.5;10;cm;0.317;Kg
+7899298651055;Receptor Digital de TV via Satélite C/Gravador Intelbras RDS 840;https://intelbras.vtexassets.com/arquivos/ids/166064-800-auto?v=638001543991200000&width=800&height=auto&aspect=true;11.5;10;2.4;cm;0.116;kg
+7899298660880;Receptor Digital de TV via Satélite C/Gravador Intelbras RDS 830;https://intelbras.vtexassets.com/arquivos/ids/171242-800-auto?v=638536478098230000&width=800&height=auto&aspect=true;11.5;10;2.4;cm;0.116;kg
+7899298643326;Roteador Empresarial Wi-Fi 5 de Alta Velocidade AP 1350 AC-S Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167958-800-auto?v=638161292402800000&width=800&height=auto&aspect=true;17.8;17.8;3.8;cm;0.37;kg
+7899298665496;Roteador Empresarial Wi-Fi 6 de Alto Desempenho Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/170135-800-auto?v=638381685733670000&width=800&height=auto&aspect=true;18.55;18.55;3.4;cm;0.58;kg
+7899298672715;Extensor Wi-Fi 5 Twibi Force Plug Giga Intelbras;https://intelbras.vtexassets.com/arquivos/ids/172671-800-auto?v=638633228568600000&width=800&height=auto&aspect=true;14.85;8;5.5;cm;0.11;g
+7899298626114;Extensor Wi-Fi 5 Dual Band Twibi Force Plug Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167213-800-auto?v=638120878591830000&width=800&height=auto&aspect=true;14.85;8;5.5;cm;0.11;kg
+7899298610922;Roteador Wi-Force W4-300F Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167910-800-auto?v=638161200127630000&width=800&height=auto&aspect=true;19;19;14.8;cm;0.345;kg
+7899298626268;Roteador Wi-Fi 5 de Alto Desempenho W5-1200G Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167950-800-auto?v=638161284659970000&width=800&height=auto&aspect=true;27.8;22;16.2;cm;0.459;kg
+7899298672159;Roteador Wi-fi Alto Desempenho W5-1200GS Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/170948-800-auto?v=638485421432470000&width=800&height=auto&aspect=true;19.1;16.9;10.4;cm;0.259;kg
+7899298681229;Roteador Wi-Force W4-300S Intelbras;;;;;;;
+7899298645832;Roteador Wireless Wi-Fi 6 RX 1500;https://intelbras.vtexassets.com/arquivos/ids/167928-800-auto?v=638161242204970000&width=800&height=auto&aspect=true;19.1;16.9;10.4;cm;0.3;kg
+7896637684941;Roteador ACtion RF 1200 Wi-Fi 5 Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167924-800-auto?v=638161217171670000&width=800&height=auto&aspect=true;30;29.5;7.7;cm;0.438;Kg
+7899298641704;Roteador Empresarial Wi-Fi 5 de Longo Alcance AP 1250 AC MAX Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/164883-800-auto?v=637889351744200000&width=800&height=auto&aspect=true;19.8;19.8;2.8;cm;0.49;kg
+7896637694711;Roteador Wireless Wi-Force Intelbras GF 1200 Preto;https://intelbras.vtexassets.com/arquivos/ids/167938-800-auto?v=638161250559230000&width=800&height=auto&aspect=true;24;17.5;15.5;cm;0.236;kg
+7896637625036;Roteador Wireless Wi-Force Intelbras W5-1200F Preto;https://intelbras.vtexassets.com/arquivos/ids/167975-800-auto?v=638161322437930000&width=800&height=auto&aspect=true;19;19;14.8;cm;0.355;kg
+7899298658184;Roteador Wi-Fi 6 Dual Band W6-1500 Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/168886-800-auto?v=638212201316200000&width=800&height=auto&aspect=true;19.12;10.42;1.69;cm;0.3;kg
+7896637676526;Roteador Empresarial AP 310 com tecnologia Wi-Fi 4 Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167944-800-auto?v=638161252779500000&width=800&height=auto&aspect=true;31.2;24.4;7.8;cm;0.68;Kg
+7896637676533;Roteador Empresarial Wi-Fi 4 de Longo Alcance AP 360 Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167932-800-auto?v=638161244875770000&width=800&height=auto&aspect=true;31.2;24.4;7.8;cm;0.68;Kg
+7899298642282;Roteador Empresarial Wi-Fi 5 Outdoor AP 1250 AC  Branco Intelbras;https://intelbras.vtexassets.com/arquivos/ids/167962-800-auto?v=638161294794900000&width=800&height=auto&aspect=true;31.8;7.5;7.5;cm;0.985;kg
+7899298662884;Sensor de Abertura Sem Fio Para Porta e Janela MSA 1001 Intelbras;;;;;;;
+7896637643160;Sensor de Movimento Smart ISM 1001 Intelbras;;;;;;;
+7899298613688;Sensor de Temperatura e Umidade Smart Intelbras IST 1001;https://intelbras.vtexassets.com/arquivos/ids/169364-800-auto?v=638285676533930000&width=800&height=auto&aspect=true;6.12;6.12;2.3;cm;0.072;kg
+7896637670449;Porteiro Residencial com Abertura de 2 Portões Individuais IPR 8010 Intelbras;https://intelbras.vtexassets.com/arquivos/ids/170914-800-auto?v=638478533887570000&width=800&height=auto&aspect=true;18.9;10.5;5.5;cm;0.457;Kg
+7899298666004;Porteiro Residencial com acesso RFID IPR 1010 ID Intelbras;;;;;;;
+7896637673419;Porteiro Residencial para Uso Externo IPR 1010 Intelbras;https://intelbras.vtexassets.com/arquivos/ids/155906-800-auto?v=637063278500200000&width=800&height=auto&aspect=true;18.9;9;6;cm;0.26;Kg
+7899298662150;Projetor Full HD 3800 Lúmens PFL6410 Intelbras;https://intelbras.vtexassets.com/arquivos/ids/170562-800-auto?v=638439436251800000&width=800&height=auto&aspect=true;31;28.6;15.5;cm;2.23;kg
+7896637645980;Kit protetor auricular Intelbras com espuma AP3601 - 10 unidades;https://intelbras.vtexassets.com/arquivos/ids/156284-800-auto?v=637066791013970000&width=800&height=auto&aspect=true;5.6;5.6;1.2;cm;0.06;kg
+7899298650645;Protetor Eletrônico Inteligente com 5 Tomadas EWS 305 Branco Intelbras;;;;;;;
+7896637698542;Dispositivo de Proteção Elétrica Intelbras EPS 301 BR;https://intelbras.vtexassets.com/arquivos/ids/157046-800-auto?v=637078851913670000&width=800&height=auto&aspect=true;7;6.6;5.6;cm;0.072;g
+7896637687119;Dispositivo de Proteção Elétrica Intelbras EPS 301 preto;;;;;;;
+7896637637336;Protetor Eletrônico com 12 Tomadas para Rack - EPR 212+;https://intelbras.vtexassets.com/arquivos/ids/164640-800-auto?v=637866004446100000&width=800&height=auto&aspect=true;48.8;4.4;3.8;cm;0.834;kg
+7896637698535;Dispositivo de Proteção Elétrica Intelbras EPS 302 BR;https://intelbras.vtexassets.com/arquivos/ids/157050-800-auto?v=637078881585800000&width=800&height=auto&aspect=true;10.3;7;5.8;cm;0.96;kg
+7896637633734;Protetor Eletrônico c/ 4 Tomadas e 2 USB Intelbras EPE 204 USB BR;https://intelbras.vtexassets.com/arquivos/ids/161458-800-auto?v=637596369371230000&width=800&height=auto&aspect=true;36.2;10.4;4.4;cm;0.27;kg
+7899298617914;Protetor Eletrônico c/ 4 Tomadas e 2 USB Intelbras EPE 204 USB BR +;https://intelbras.vtexassets.com/arquivos/ids/161473-800-auto?v=637596375305670000&width=800&height=auto&aspect=true;36;27.2;5;cm;0.35;kg
+7896637633710;Protetor Eletrônico c/ 4 Tomadas e 2 USB Intelbras EPE 204 USB PT;https://intelbras.vtexassets.com/arquivos/ids/168937-800-auto?v=638215791257470000&width=800&height=auto&aspect=true;36.2;10.4;4.4;cm;0.27;kg
+7899298617921;Protetor Eletrônico com 4 Tomadas e 2 USB EPE 204 USB+ Preto Intelbras;https://intelbras.vtexassets.com/arquivos/ids/161476-800-auto?v=637596378300400000&width=800&height=auto&aspect=true;27.2;5;3.6;cm;0.35;kg
+7896637679794;Protetor Eletrônico Intelbras com 4 tomadas EPE 1004;https://intelbras.vtexassets.com/arquivos/ids/155559-800-auto?v=637062452218800000&width=800&height=auto&aspect=true;21.8;4.4;4;cm;0.262;Kg
+7896637682183;Protetor Eletrônico Intelbras EPE 1005 Branco;;;;;;;
+7896637682176;Protetor Eletrônico Intelbras EPE 1005 Preto;https://intelbras.vtexassets.com/arquivos/ids/155663-800-auto?v=637063026814070000&width=800&height=auto&aspect=true;21.5;4.4;3.6;cm;0.13;gramas
+7896637612609;Protetor Eletrônico c/ 5 Tomadas - EPE 205+ BR;https://intelbras.vtexassets.com/arquivos/ids/164012-800-auto?v=637814142452300000&width=800&height=auto&aspect=true;27.2;5;3.6;cm;0.35;kg
+7896637612630;Protetor Eletrônico c/ 5 Tomadas - EPE 205 + PT;https://intelbras.vtexassets.com/arquivos/ids/163997-800-auto?v=637814128916330000&width=800&height=auto&aspect=true;27.2;5;3.6;cm;0.35;kg
+7896637689397;Protetor Eletrônico Intelbras com 5 Tomadas - EPE 205 BR;;;;;;;
+7896637689403;Protetor Eletrônico Intelbras com 5 Tomadas - EPE 205 PT;https://intelbras.vtexassets.com/arquivos/ids/157807-800-auto?v=637207549829600000&width=800&height=auto&aspect=true;27.2;5;3.6;1;cm;225
+7896637679800;Protetor Eletrônico Intelbras com 6 tomadas EPE 1006;https://intelbras.vtexassets.com/arquivos/ids/155564-800-auto?v=637062454535400000&width=800&height=auto&aspect=true;28.6;4.4;4;0.241;;
+7896637679817;Protetor Eletrônico Intelbras com 8 tomadas EPE 1008+ BR;https://intelbras.vtexassets.com/arquivos/ids/157104-800-auto?v=637080581678600000&width=800&height=auto&aspect=true;20.8;8.6;3.8;0.251;;
+7896637682244;Protetor Eletrônico Intelbras EPE 1008 Preto;https://intelbras.vtexassets.com/arquivos/ids/155667-800-auto?v=637063029395200000&width=800&height=auto&aspect=true;20.8;8.6;3.8;cm;0.295;gramas
+7896637637305;Protetor Eletrônico com 8 Tomadas para Rack EPR 208 Intelbras;https://intelbras.vtexassets.com/arquivos/ids/164631-800-auto?v=637865959889070000&width=800&height=auto&aspect=true;48.8;4.4;3.8;cm;0.694;kg
+7896637626149;Rádio Comunicador Intelbras RC 3002 G2;;;;;;;

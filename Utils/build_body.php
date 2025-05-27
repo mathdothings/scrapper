@@ -1,6 +1,6 @@
 <?php
 
-function buildBody(): void
+function build_body(): void
 {
     if (PHP_SAPI !== 'cli') {
         echo <<<HTML
@@ -8,7 +8,7 @@ function buildBody(): void
 padding: 1rem;
 background-color: #262626;
 color: white;
-font-family: monospace;
+font-family: 'Fira Mono', monospace;
 font-size: 1rem;
 line-break: anywhere;
 ">
