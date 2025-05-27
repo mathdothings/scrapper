@@ -34,9 +34,9 @@ function countLinksInDirectory($directory)
     }
 
     echo '</br>';
-    echo "Total: $processedFiles arquivos lidos";
+    echo "Total: $processedFiles readed files";
     echo '</br>';
-    echo "Encontradas: $totalLinks URLs";
+    echo "Found: $totalLinks links";
 
     return $totalLinks;
 }

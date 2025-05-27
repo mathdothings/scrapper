@@ -5,7 +5,7 @@ namespace App\Processing;
 use RuntimeException;
 use Exception;
 
-class Extractor
+class IntelbrasExtractor
 {
     private array $dataset = [];
 
@@ -76,62 +76,68 @@ class Extractor
 
     private function extractFormattedDimensions(array $product): ?string
     {
-        $dimensions = $product['info_extra_produto']['Dimensões do pacote'] ??
-            $product['info_produto']['Dimensões do produto'] ?? null;
+        $dimensions = $product['info_produto'] ?? [];
 
         if (empty($dimensions)) {
             return ';';
         }
+        $result = [];
 
-        $parts = explode(';', $dimensions);
-        $dimensionPart = trim($parts[0]);
+        foreach ($dimensions as $key => $value) {
+            if (stripos(trim($key), 'peso') !== false) {
+                continue;
+            }
 
-        $normalized = str_replace(['×', 'by', 'X'], 'x', $dimensionPart);
-
-        if (!preg_match_all('/(\d+[\.,]?\d*)/', $normalized, $matches)) {
-            return ';';
+            if (preg_match_all('/(\d+[\.,]?\d*)/', (string)$value, $matches)) {
+                $result = array_merge($result, str_replace(',', '.', $matches[0]));
+            }
         }
 
-        $numbers = $matches[0];
+        rsort($result);
 
-        if (count($numbers) < 3) {
-            return ';';
-        }
-
-        rsort($numbers);
-        $mainDimensions = array_slice($numbers, 0, 3);
-
-        return implode(';', str_replace(',', '.', $mainDimensions)) . ';';
+        return implode(';', $result) . (empty($result) ? '' : ';');
     }
 
     private function extractFormattedDimensionsUnit(array $product): ?string
     {
-        $dimensions = $product['info_extra_produto']['Dimensões do pacote'] ??
-            $product['info_produto']['Dimensões do produto'] ?? null;
+        $dimensions = $product['info_produto'] ?? [];
 
         if (empty($dimensions)) {
-            return ';';
+            return null;
         }
 
-        $parts = explode(';', $dimensions);
-        $d = explode(' ', $parts[0]);
-        return $d[count($d) - 1] . ';';
+        $units = [];
+        $unitPattern = '/(?:cm|mm|m|in|ft|"|\')/i'; // Common unit patterns
+
+        foreach ($dimensions as $key => $value) {
+            if (stripos(trim($key), 'peso') !== false) {
+                continue;
+            }
+
+            if (preg_match($unitPattern, (string)$value, $matches)) {
+                $units[] = strtolower($matches[0]);
+            }
+        }
+
+        if (empty($units)) {
+            return null;
+        }
+
+        $uniqueUnits = array_unique($units);
+        sort($uniqueUnits);
+
+        return implode(';', $uniqueUnits) . ';';
     }
 
     private function extractAndConvertWeight(array $product): ?string
     {
-        $weightString = $product['info_produto']['Peso do produto'] ?? $product['info_produto']['Dimensões do produto'];
+        $weight = $product['info_produto']['Peso do produto'] ?? null;
 
-        if (empty($weightString)) {
+        if (empty($weight)) {
             return ';';
         }
 
-        if (strpos($weightString, ';')) {
-            $parts = explode(';', $weightString);
-            $weightString = trim($parts[1]);
-        }
-
-        if (preg_match('/(\d+[\.,]\d+)|(\d+)/', $weightString, $matches)) {
+        if (preg_match('/(\d+[\.,]\d+)|(\d+)/', $weight, $matches)) {
             $number = $matches[0];
             $number = str_replace(',', '.', $number);
             return (float)$number . ';';
@@ -142,14 +148,9 @@ class Extractor
 
     private function extractAndConvertWeightUnit(array $product): ?string
     {
-        $weightString = $product['info_produto']['Peso do produto'] ?? $product['info_produto']['Dimensões do produto'];
+        $weightString = $product['info_produto']['Peso do produto'] ?? null;
         if (empty($weightString)) {
             return ';';
-        }
-
-        if (strpos($weightString, ';')) {
-            $parts = explode(';', $weightString);
-            $weightString = trim($parts[1]);
         }
 
         preg_match('/(\d+\.?\,?\d*)\s*([a-zA-Z]+)/', $weightString, $matches);
