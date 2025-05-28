@@ -94,7 +94,6 @@ function exportContent(): void
     }
 }
 
-
 count_links_in_directory('/Output/links');
 // getURLs();
 // findContent();
@@ -105,9 +104,12 @@ $elapsed = $timer->elapsed();
 $filename = '/Audit/' . new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
     ->format('d-m-Y_H-i-s') . "_audit.txt";
 
-$filesystem->appendFile($filename, "# ✅ Duração: " . number_format($elapsed, 2) . " segundos!");
-$filesystem->appendFile($filename, "# ✅ Duração: " . number_format($elapsed / 60, 2) . " minutos!");
+$filesystem->appendFile($filename, "Operação: Realizar scrapping");
+$filesystem->appendFile($filename, "# ✅ Duração (s): " . number_format($elapsed, 2));
+$filesystem->appendFile($filename, "# ✅ Duração: (min)" . number_format($elapsed / 60, 2));
+$filesystem->appendFile($filename, "# ✅ Duração: (h)" . number_format($elapsed / 120, 2));
 
+echo '<br />';
 echo '<br />';
 echo "# ✅ Duração: " . number_format($elapsed, 2) . " segundos!";
 echo '<br />';
