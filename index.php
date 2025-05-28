@@ -11,11 +11,11 @@ require_once __DIR__ . '/Utils/pretty_print.php';
 require_once __DIR__ . '/Toolkit/Timer.php';
 require_once __DIR__ . '/CSV/Reader.php';
 require_once __DIR__ . '/Filesystem/Filer.php';
-require_once __DIR__ . '/Scrapper/IntelbrasScrapper.php';
+require_once __DIR__ . '/Scrapper/MultilaserScrapper.php';
 require_once __DIR__ . '/Extractor/IntelbrasExtractor.php';
 
 use App\CSV\Reader;
-use App\Scrapping\IntelbrasScrapper;
+use App\Scrapping\MultilaserScrapper;
 use App\Toolkit\Timer;
 use App\System\Filer;
 use App\Processing\IntelbrasExtractor;
@@ -31,11 +31,11 @@ $filesystem = new Filer;
 
 function getURLs(): void
 {
-    $reader = new Reader(__DIR__ . '/Input/LISTA_PRODUTOS_INTELBRAS.csv', ';');
+    $reader = new Reader('/Input/LISTA_PRODUTOS_MULTILASER.csv', ';');
     $barcodes = $reader->read()->getColumn('PROD_COD_BAR');
 
     $filesystem = new Filer;
-    $scrapper = new IntelbrasScrapper;
+    $scrapper = new MultilaserScrapper;
 
     $chunks = array_split($barcodes, 100);
 
@@ -51,14 +51,14 @@ function getURLs(): void
         $filename = new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
             ->format('Y-m-d_H-i-s') . '_link.php';
 
-        $filesystem->writeFile("/Output/links/$filename", $links);
+        $filesystem->writeFile("/Output/links/multilaser/$filename", $links);
     }
 }
 
 function findContent(): void
 {
     $filesystem = new Filer;
-    $scrapper = new IntelbrasScrapper;
+    $scrapper = new MultilaserScrapper;
 
     $filepaths = $filesystem->readFiles('/Output/links');
 
@@ -93,9 +93,9 @@ function exportContent(): void
         $i++;
     }
 }
-
-count_links_in_directory('/Output/links');
-// getURLs();
+count_links_in_directory('/Output/links/multilaser');
+die;
+getURLs();
 // findContent();
 // exportContent();
 
@@ -104,7 +104,7 @@ $elapsed = $timer->elapsed();
 $filename = '/Audit/' . new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
     ->format('d-m-Y_H-i-s') . "_audit.txt";
 
-$filesystem->appendFile($filename, "Operação: Realizar scrapping");
+$filesystem->appendFile($filename, "Operação: Realizar scrapping das URLs");
 $filesystem->appendFile($filename, "# ✅ Duração (s): " . number_format($elapsed, 2));
 $filesystem->appendFile($filename, "# ✅ Duração: (min)" . number_format($elapsed / 60, 2));
 $filesystem->appendFile($filename, "# ✅ Duração: (h)" . number_format($elapsed / 120, 2));
