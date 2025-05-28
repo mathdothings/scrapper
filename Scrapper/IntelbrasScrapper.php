@@ -11,14 +11,14 @@ use App\Request\Request;
 class IntelbrasScrapper
 {
     /**
-     * Amazon Brazil base search URL (search results page)
+     * Intelbras base search URL (search results page)
      * 
      * @var string
      */
     private string $BASE_SEARCH_URL = 'https://loja.intelbras.com.br';
 
     /**
-     * Amazon Brazil base URL for all requests
+     * Intelbras base URL for all requests
      * 
      * @var string
      */
@@ -73,14 +73,14 @@ class IntelbrasScrapper
     private const ECHO_STEPS = true;
 
     /**
-     * Generates a randomized Amazon Brazil search URL for a given barcode.
+     * Generates a randomized Intelbras search URL for a given barcode.
      *
      * Creates a search URL with randomized parameters to help avoid detection as automated traffic.
      * The URL includes:
      * - The provided barcode as search term
      * - Randomized CRID (customer reference ID)
      * - Properly encoded search prefix
-     * - Amazon Brazil specific parameters
+     * - Intelbras specific parameters
      *
      * @param string $barcode The product barcode to search for (e.g., '7899298674719')
      * 

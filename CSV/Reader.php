@@ -13,6 +13,8 @@ use Exception;
  */
 class Reader
 {
+    private const BASEPATH = __DIR__ . '/../';
+
     /** @var string The path to the CSV file */
     private string $filepath;
 
@@ -45,7 +47,7 @@ class Reader
         string $enclosure = '"',
         string $escape = '\\'
     ) {
-        $this->filepath = $filepath;
+        $this->filepath = self::BASEPATH . DIRECTORY_SEPARATOR . ltrim($filepath, DIRECTORY_SEPARATOR);
         $this->delimiter = $delimiter;
         $this->enclosure = $enclosure;
         $this->escape = $escape;

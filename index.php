@@ -11,12 +11,10 @@ require_once __DIR__ . '/Utils/pretty_print.php';
 require_once __DIR__ . '/Toolkit/Timer.php';
 require_once __DIR__ . '/CSV/Reader.php';
 require_once __DIR__ . '/Filesystem/Filer.php';
-require_once __DIR__ . '/Request/Request.php';
 require_once __DIR__ . '/Scrapper/IntelbrasScrapper.php';
 require_once __DIR__ . '/Extractor/IntelbrasExtractor.php';
 
 use App\CSV\Reader;
-use App\Request\Request;
 use App\Scrapping\IntelbrasScrapper;
 use App\Toolkit\Timer;
 use App\System\Filer;
@@ -27,14 +25,76 @@ build_head();
 build_body();
 
 $timer = new Timer;
-$filer = new Filer;
-$request = new Request;
-$scrapper = new IntelbrasScrapper;
-$extractor = new IntelbrasExtractor;
-
 $start = $timer->start();
 
-$filepaths = $filer->readFiles('/Output/items');
+function getURLs(): void
+{
+    $reader = new Reader(__DIR__ . '/Input/LISTA_PRODUTOS_INTELBRAS.csv', ';');
+    $barcodes = $reader->read()->getColumn('PROD_COD_BAR');
+
+    $filesystem = new Filer;
+    $scrapper = new IntelbrasScrapper;
+
+    $chunks = array_split($barcodes, 100);
+
+    foreach ($chunks as $chunk) {
+        $links = [];
+        foreach ($chunk as $barcode) {
+            $link = $scrapper->findProductURLByBarcode($barcode);
+            if ($link !== '') {
+                $links[$barcode] = $link;
+            }
+        }
+
+        $filename = new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
+            ->format('Y-m-d_H-i-s') . '_link.php';
+
+        $filesystem->writeFile("/Output/links/$filename", $links);
+    }
+}
+
+function findContent(): void
+{
+    $filesystem = new Filer;
+    $scrapper = new IntelbrasScrapper;
+
+    $filepaths = $filesystem->readFiles('/Output/links');
+
+    foreach ($filepaths as $filepath) {
+        require_once $filepath;
+        $items = [];
+        foreach ($links as $barcode => $url) {
+            $item = [];
+            if ($item = $scrapper->findProductContentByBarcodeAndURL($barcode, $url)) {
+                $items[$barcode] = $item;
+            }
+        }
+        $filename = new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
+            ->format('Y-m-d_H-i-s') . '_item.php';
+
+        $filesystem->writeFile("/Output/items/$filename", $items);
+    }
+}
+
+function exportContent(): void
+{
+    $filesystem = new Filer;
+    $extractor = new IntelbrasExtractor;
+
+    $filepaths = $filesystem->readFiles('/Output/items');
+
+    $i = 1;
+    foreach ($filepaths as $filepath) {
+        $filename = 'Output/exports/' . new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
+            ->format('Y-m-d_H-i-s') . "_export$i.txt";
+        $extractor->export($filepath, $filename);
+        $i++;
+    }
+}
+
+getURLs();
+// findContent();
+// exportContent();
 
 $elapsed = $timer->elapsed();
 
