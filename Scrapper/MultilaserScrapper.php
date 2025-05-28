@@ -50,7 +50,7 @@ class MultilaserScrapper
      */
     private const ANCHOR_SELECTOR = 'vtex-product-summary-2-x-clearLink h-100 flex flex-column';
 
-    private const PRODUCT_TITLE = 'productTitle';
+    private const PRODUCT_TITLE = 'vtex-store-components-3-x-productBrand vtex-store-components-3-x-productBrand--quickview ';
     private const TECHINICAL_DETAILS = 'productDetails_techSpec_section_1';
     private const TECHNICAL_EXTRA_DETAILS = 'productDetails_detailBullets_sections1';
     private const TECHNICAL_FEATURED_DETAILS = 'detailBullets_feature_div';
@@ -200,26 +200,26 @@ class MultilaserScrapper
 
             $dom = HTMLDocument::createFromString($response);
 
-            $productTitle = $dom->getElementById(self::PRODUCT_TITLE);
+            $productTitle = $dom->getElementById($this->classHandler(self::PRODUCT_TITLE));
             if ($productTitle) {
                 $arr['nome_produto'] = trim($productTitle->textContent);
             }
 
-            $techSpecTds = $this->stripeTableContent($dom, self::TECHINICAL_DETAILS);
+            $techSpecTds = $this->stripeTableContent($dom, $this->classHandler(self::TECHINICAL_DETAILS));
             if ($techSpecTds) {
                 $arr['info_produto'] = $techSpecTds;
             }
 
-            $techSpecExtraTds = $this->stripeTableContent($dom, self::TECHNICAL_EXTRA_DETAILS);
+            $techSpecExtraTds = $this->stripeTableContent($dom, $this->classHandler(self::TECHNICAL_EXTRA_DETAILS));
             if ($techSpecExtraTds) {
                 $arr['info_extra_produto'] = $techSpecExtraTds;
             }
 
             if (empty($techSpecExtraTds)) {
-                $techSpecExtraTds = $this->stripeTableContent($dom, self::TECHNICAL_FEATURED_DETAILS);
+                $techSpecExtraTds = $this->stripeTableContent($dom, $this->classHandler(self::TECHNICAL_FEATURED_DETAILS));
             }
 
-            $img = $dom->getElementById(self::PRODUCT_IMAGE) ?? $dom->querySelector(self::PRODUCT_IMAGE_FALLBACK);
+            $img = $dom->getElementById(self::PRODUCT_IMAGE) ?? $dom->querySelector($this->classHandler(self::PRODUCT_IMAGE_FALLBACK));
             if ($img) {
                 $src = $img->getAttribute('src');
                 $arr['imagem_produto'] = $src;

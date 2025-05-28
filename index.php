@@ -49,7 +49,7 @@ function getURLs(): void
         }
 
         $filename = new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
-            ->format('Y-m-d_H-i-s') . '_link.php';
+            ->format('d-m-Y_H-i-s') . '_link.php';
 
         $filesystem->writeFile("/Output/links/multilaser/$filename", $links);
     }
@@ -72,7 +72,7 @@ function findContent(): void
             }
         }
         $filename = new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
-            ->format('Y-m-d_H-i-s') . '_item.php';
+            ->format('d-m-Y_H-i-s') . '_item.php';
 
         $filesystem->writeFile("/Output/items/$filename", $items);
     }
@@ -88,14 +88,15 @@ function exportContent(): void
     $i = 1;
     foreach ($filepaths as $filepath) {
         $filename = 'Output/exports/' . new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
-            ->format('Y-m-d_H-i-s') . "_export$i.txt";
+            ->format('d-m-Y_H-i-s') . "_export$i.txt";
         $extractor->export($filepath, $filename);
         $i++;
     }
 }
+
 count_links_in_directory('/Output/links/multilaser');
-die;
-getURLs();
+
+// getURLs();
 // findContent();
 // exportContent();
 
@@ -104,14 +105,20 @@ $elapsed = $timer->elapsed();
 $filename = '/Audit/' . new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
     ->format('d-m-Y_H-i-s') . "_audit.txt";
 
-$filesystem->appendFile($filename, "Operação: Realizar scrapping das URLs");
-$filesystem->appendFile($filename, "# ✅ Duração (s): " . number_format($elapsed, 2));
-$filesystem->appendFile($filename, "# ✅ Duração: (min)" . number_format($elapsed / 60, 2));
-$filesystem->appendFile($filename, "# ✅ Duração: (h)" . number_format($elapsed / 120, 2));
+$filesystem->appendFile($filename, "> Operação: Realizar scrapping das URLs");
+$filesystem->appendFile($filename, "# ✅ Duração (s):"
+    . "\t\t"
+    . number_format($elapsed, 2, ',', '.'));
+$filesystem->appendFile($filename, "# ✅ Duração (min):"
+    . "\t\t"
+    . number_format($elapsed / 60, 2, ',', '.'));
+$filesystem->appendFile($filename, "# ✅ Duração (h):"
+    . "\t\t"
+    . number_format($elapsed / 120, 2, ',', '.'));
 
 echo '<br />';
 echo '<br />';
-echo "# ✅ Duração: " . number_format($elapsed, 2) . " segundos!";
+echo "# ✅ Duração: " . number_format($elapsed, 2, ',', '.') . " segundos!";
 echo '<br />';
-echo "# ✅ Duração: " . number_format($elapsed / 60, 2) . " minutos!";
+echo "# ✅ Duração: " . number_format($elapsed / 60, 2, ',', '.') . " minutos!";
 echo '<br />';
