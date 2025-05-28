@@ -27,6 +27,8 @@ build_body();
 $timer = new Timer;
 $start = $timer->start();
 
+$filesystem = new Filer;
+
 function getURLs(): void
 {
     $reader = new Reader(__DIR__ . '/Input/LISTA_PRODUTOS_INTELBRAS.csv', ';');
@@ -92,11 +94,19 @@ function exportContent(): void
     }
 }
 
-getURLs();
+
+count_links_in_directory('/Output/links');
+// getURLs();
 // findContent();
 // exportContent();
 
 $elapsed = $timer->elapsed();
+
+$filename = '/Audit/' . new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
+    ->format('d-m-Y_H-i-s') . "_audit.txt";
+
+$filesystem->appendFile($filename, "# ✅ Duração: " . number_format($elapsed, 2) . " segundos!");
+$filesystem->appendFile($filename, "# ✅ Duração: " . number_format($elapsed / 60, 2) . " minutos!");
 
 echo '<br />';
 echo "# ✅ Duração: " . number_format($elapsed, 2) . " segundos!";

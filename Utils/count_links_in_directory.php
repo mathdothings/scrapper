@@ -1,5 +1,5 @@
 <?php
-function countLinksInFile($filePath)
+function count_links_in_file($filePath)
 {
     include $filePath;
 
@@ -17,7 +17,7 @@ function countLinksInFile($filePath)
     return $count;
 }
 
-function countLinksInDirectory($directory)
+function count_links_in_directory($directory)
 {
     $totalLinks = 0;
     $processedFiles = 0;
@@ -25,7 +25,7 @@ function countLinksInDirectory($directory)
     $files = glob(__DIR__ . '/../' . $directory . '/*_link.php');
 
     foreach ($files as $file) {
-        $count = countLinksInFile($file);
+        $count = count_links_in_file($file);
         $totalLinks += $count;
         $processedFiles++;
 
@@ -34,7 +34,7 @@ function countLinksInDirectory($directory)
     }
 
     echo '</br>';
-    echo "Total: $processedFiles readed files";
+    echo "Total: $processedFiles files read";
     echo '</br>';
     echo "Found: $totalLinks links";
 

@@ -8,7 +8,7 @@ function build_body(): void
 padding: 1rem;
 background-color: #262626;
 color: white;
-font-family: 'Red Hat Mono', monospace;
+font-family: 'Space Mono', monospace;
 font-size: 1rem;
 line-break: anywhere;
 ">

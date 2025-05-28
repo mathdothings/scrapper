@@ -105,6 +105,11 @@ class Filer
     public function appendFile(string $filepath, string $content): bool
     {
         $fullpath = self::BASEPATH . DIRECTORY_SEPARATOR . ltrim($filepath, DIRECTORY_SEPARATOR);
+
+        if (file_exists($fullpath) && filesize($fullpath) > 0) {
+            $content = PHP_EOL . $content;
+        }
+
         return (bool) file_put_contents($fullpath, $content, FILE_APPEND | LOCK_EX);
     }
 
