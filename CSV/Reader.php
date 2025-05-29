@@ -147,4 +147,71 @@ class Reader
 
         return array_column($this->data, $columnName);
     }
+
+    /**
+     * Combines all CSV files in a directory into one output file while preserving headers from the first file.
+     *
+     * @param string $outputpath Path to save the combined CSV file
+     * @param string $inputpath Directory containing CSV files to combine
+     * @param bool $hasHeaders Whether the CSV files have headers (default: true)
+     * @return bool Returns true on success, false on failure
+     * @throws Exception If directory cannot be read or files cannot be processed
+     */
+    public function combineFiles(
+        string $outputpath,
+        string $inputpath,
+        bool $hasHeaders = true
+    ): bool {
+
+        $inputpath = self::BASEPATH . DIRECTORY_SEPARATOR . ltrim($inputpath, DIRECTORY_SEPARATOR);
+        $outputpath = self::BASEPATH . DIRECTORY_SEPARATOR . ltrim($outputpath, DIRECTORY_SEPARATOR);
+
+        if (!is_dir($inputpath) || !is_readable($inputpath)) {
+            throw new Exception("Input directory not found or not readable: " . $inputpath);
+        }
+
+        $files = glob($inputpath . DIRECTORY_SEPARATOR . '*.csv');
+        if (empty($files)) {
+            throw new Exception("No CSV files found in directory: " . $inputpath);
+        }
+
+        $outputHandle = fopen($outputpath, 'w');
+        if (!$outputHandle) {
+            throw new Exception("Could not create output file: " . $outputpath);
+        }
+
+        $firstFile = true;
+        $headers = [];
+
+        foreach ($files as $file) {
+            $handle = fopen($file, 'r');
+            if (!$handle) {
+                fclose($outputHandle);
+                throw new Exception("Could not open file: " . basename($file));
+            }
+
+            if ($hasHeaders) {
+                $currentHeaders = fgetcsv($handle, 0, $this->delimiter, $this->enclosure, $this->escape);
+
+                if ($firstFile) {
+                    $headers = $currentHeaders;
+                    fputcsv($outputHandle, $headers, $this->delimiter, $this->enclosure, $this->escape);
+                    $firstFile = false;
+                } elseif ($currentHeaders !== $headers) {
+                    fclose($handle);
+                    fclose($outputHandle);
+                    throw new Exception("Header mismatch in file: " . basename($file));
+                }
+            }
+
+            while (($row = fgetcsv($handle, 0, $this->delimiter, $this->enclosure, $this->escape)) !== false) {
+                fputcsv($outputHandle, $row, $this->delimiter, $this->enclosure, $this->escape);
+            }
+
+            fclose($handle);
+        }
+
+        fclose($outputHandle);
+        return true;
+    }
 }

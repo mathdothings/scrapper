@@ -50,12 +50,10 @@ class MultilaserScrapper
      */
     private const ANCHOR_SELECTOR = 'vtex-product-summary-2-x-clearLink h-100 flex flex-column';
 
-    private const PRODUCT_TITLE = 'vtex-store-components-3-x-productBrand vtex-store-components-3-x-productBrand--quickview ';
-    private const TECHINICAL_DETAILS = 'productDetails_techSpec_section_1';
-    private const TECHNICAL_EXTRA_DETAILS = 'productDetails_detailBullets_sections1';
-    private const TECHNICAL_FEATURED_DETAILS = 'detailBullets_feature_div';
-    private const PRODUCT_IMAGE = 'landingImage';
-    private const PRODUCT_IMAGE_FALLBACK = '.a-dynamic-image.a-stretch-vertical';
+    private const PRODUCT_TITLE = 'vtex-store-components-3-x-productBrand vtex-store-components-3-x-productBrand--quickview';
+    private const TECHINICAL_DETAILS_NAME = 'vtex-product-specifications-1-x-specificationName';
+    private const TECHINICAL_DETAILS_VALUE = 'vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--productSpecificationValue pb0';
+    private const PRODUCT_IMAGE = 'vtex-store-components-3-x-productImageTag vtex-store-components-3-x-productImageTag--main';
 
     /**
      * Controls whether the application should output step-by-step process information
@@ -200,26 +198,24 @@ class MultilaserScrapper
 
             $dom = HTMLDocument::createFromString($response);
 
-            $productTitle = $dom->getElementById($this->classHandler(self::PRODUCT_TITLE));
+            $productTitle = $dom->querySelector($this->classHandler(self::PRODUCT_TITLE));
             if ($productTitle) {
                 $arr['nome_produto'] = trim($productTitle->textContent);
             }
 
-            $techSpecTds = $this->stripeTableContent($dom, $this->classHandler(self::TECHINICAL_DETAILS));
+            $techSpecTds = $this->stripeTableContent(
+                $dom,
+                [
+                    $this->classHandler(self::TECHINICAL_DETAILS_NAME),
+                    $this->classHandler(self::TECHINICAL_DETAILS_VALUE)
+                ]
+            );
+
             if ($techSpecTds) {
                 $arr['info_produto'] = $techSpecTds;
             }
 
-            $techSpecExtraTds = $this->stripeTableContent($dom, $this->classHandler(self::TECHNICAL_EXTRA_DETAILS));
-            if ($techSpecExtraTds) {
-                $arr['info_extra_produto'] = $techSpecExtraTds;
-            }
-
-            if (empty($techSpecExtraTds)) {
-                $techSpecExtraTds = $this->stripeTableContent($dom, $this->classHandler(self::TECHNICAL_FEATURED_DETAILS));
-            }
-
-            $img = $dom->getElementById(self::PRODUCT_IMAGE) ?? $dom->querySelector($this->classHandler(self::PRODUCT_IMAGE_FALLBACK));
+            $img = $dom->querySelector($this->classHandler(self::PRODUCT_IMAGE));
             if ($img) {
                 $src = $img->getAttribute('src');
                 $arr['imagem_produto'] = $src;
@@ -238,30 +234,37 @@ class MultilaserScrapper
         return $arr;
     }
 
-    private function stripeTableContent(HTMLDocument $dom, string $tableId): array
+    private function stripeTableContent(HTMLDocument $dom, array $tableclasses): array
     {
-        $table = $dom->getElementById($tableId);
         $content = [];
+        $table = $dom->querySelectorAll($tableclasses[0]);
+        $td = $dom->querySelectorAll($tableclasses[1]);
 
-        if ($table) {
-            $trs = $table->getElementsByTagName('tr');
+        if (!$table) {
+            return $content;
+        }
 
-            foreach ($trs as $tr) {
-                $ths = $tr->getElementsByTagName('th');
-                $tds = $tr->getElementsByTagName('td');
+        if (!$td) {
+            return $content;
+        }
 
-                if ($ths->length > 0 && $tds->length > 0) {
-                    $th = $ths->item(0);
-                    $td = $tds->item(0);
+        for ($i = 0; $i < count($table); $i++) {
+            $key = $this->cleanSpecialChars($table[$i]->textContent);
+            $value = $this->cleanSpecialChars($td[$i]->textContent);
+            $content[$key] = $value;
+        }
 
-                    $key = $this->cleanSpecialChars(trim($th->textContent));
-                    $value = $this->cleanSpecialChars(trim($td->textContent));
+        if ($content) {
+            $allowedKeys = [
+                'Peso do produto',
+                'Largura do produto',
+                'Altura do produto',
+                'Comprimento do produto'
+            ];
 
-                    if (!empty($key)) {
-                        $content[$key] = $value;
-                    }
-                }
-            }
+            $filteredArray = array_intersect_key($content, array_flip($allowedKeys));
+
+            return $filteredArray;
         }
 
         return $content;

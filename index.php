@@ -7,6 +7,7 @@ require_once __DIR__ . '/Utils/build_head.php';
 require_once __DIR__ . '/Utils/build_body.php';
 require_once __DIR__ . '/Utils/array_split.php';
 require_once __DIR__ . '/Utils/count_links_in_directory.php';
+require_once __DIR__ . '/Utils/dd.php';
 require_once __DIR__ . '/Utils/pretty_print.php';
 require_once __DIR__ . '/Toolkit/Timer.php';
 require_once __DIR__ . '/CSV/Reader.php';
@@ -41,6 +42,7 @@ function getURLs(): void
 
     foreach ($chunks as $chunk) {
         $links = [];
+
         foreach ($chunk as $barcode) {
             $link = $scrapper->findProductURLByBarcode($barcode);
             if ($link !== '') {
@@ -60,17 +62,19 @@ function findContent(): void
     $filesystem = new Filer;
     $scrapper = new MultilaserScrapper;
 
-    $filepaths = $filesystem->readFiles('/Output/links');
+    $filepaths = $filesystem->readFiles('/Output/links/multilaser');
 
     foreach ($filepaths as $filepath) {
         require_once $filepath;
         $items = [];
+
         foreach ($links as $barcode => $url) {
             $item = [];
             if ($item = $scrapper->findProductContentByBarcodeAndURL($barcode, $url)) {
                 $items[$barcode] = $item;
             }
         }
+
         $filename = new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
             ->format('d-m-Y_H-i-s') . '_item.php';
 
@@ -88,13 +92,13 @@ function exportContent(): void
     $i = 1;
     foreach ($filepaths as $filepath) {
         $filename = 'Output/exports/' . new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
-            ->format('d-m-Y_H-i-s') . "_export$i.txt";
+            ->format('d-m-Y_H-i-s') . "_export$i.csv";
         $extractor->export($filepath, $filename);
         $i++;
     }
 }
 
-count_links_in_directory('/Output/links/multilaser');
+// count_links_in_directory('/Output/links/multilaser');
 
 // getURLs();
 // findContent();
@@ -105,7 +109,9 @@ $elapsed = $timer->elapsed();
 $filename = '/Audit/' . new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
     ->format('d-m-Y_H-i-s') . "_audit.txt";
 
-$filesystem->appendFile($filename, "> Operação: Realizar scrapping das URLs");
+$filesystem->appendFile($filename, "> Realizado em: " . new DateTime(timezone: new DateTimeZone('America/Sao_Paulo'))
+    ->format('d-m-Y_H-i-s'));
+$filesystem->appendFile($filename, "> Operação: Realizar scrapping dos dados");
 $filesystem->appendFile($filename, "# ✅ Duração (s):"
     . "\t\t"
     . number_format($elapsed, 2, ',', '.'));
